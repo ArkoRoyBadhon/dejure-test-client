@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WebSocket Test</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+      }
+      .status {
+        padding: 10px;
+        margin: 10px 0;
+        border-radius: 5px;
+      }
+      .success {
+        background-color: #d4edda;
+        color: #155724;
+      }
+      .error {
+        background-color: #f8d7da;
+        color: #721c24;
+      }
+      .info {
+        background-color: #d1ecf1;
+        color: #0c5460;
+      }
+      button {
+        padding: 10px 20px;
+        margin: 5px;
+        cursor: pointer;
+      }
+      input {
+        padding: 10px;
+        margin: 5px;
+        width: 200px;
+      }
+      .log {
+        background-color: #f8f9fa;
+        padding: 10px;
+        margin: 10px 0;
+        border-radius: 5px;
+        height: 200px;
+        overflow-y: scroll;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>🧪 SIP Gateway WebSocket Test</h1>
+
+    <div id="status" class="status info">Ready to test</div>
+
+    <div>
+      <input
+        type="text"
+        id="phoneNumber"
+        placeholder="Enter phone number (e.g., 01712345678)"
+        value="01712345678"
+      />
+      <button onclick="connect()">Connect to Gateway</button>
+      <button onclick="makeCall()">Make Call</button>
+      <button onclick="hangup()">Hangup</button>
+    </div>
+
+    <div class="log" id="log"></div>
+
+    <script>
+      let ws = null;
+      let callId = null;
+
+      function log(message) {
+        const logDiv = document.getElementById("log");
+        const time = new Date().toLocaleTimeString();
+        logDiv.innerHTML += `[${time}] ${message}<br>`;
+        logDiv.scrollTop = logDiv.scrollHeight;
+      }
+
+      function updateStatus(message, type = "info") {
+        const statusDiv = document.getElementById("status");
+        statusDiv.textContent = message;
+        statusDiv.className = `status ${type}`;
+      }
+
+      function connect() {
+        log("🔌 Attempting to connect to SIP Gateway...");
+        updateStatus("Connecting...", "info");
+
+        ws = new WebSocket("ws://localhost:8089/ws");
+
+        ws.onopen = function () {
+          log("✅ Connected to SIP Gateway");
+          updateStatus("Connected to SIP Gateway", "success");
+
+          // Register
+          ws.send(
+            JSON.stringify({
+              type: "register",
+              username: "webrtc",
+              password: "webrtc123",
+            })
+          );
+          log("📝 Sent registration request");
+        };
+
+        ws.onmessage = function (event) {
+          try {
+            const data = JSON.parse(event.data);
+            log(`📨 Received: ${JSON.stringify(data)}`);
+
+            switch (data.type) {
+              case "connected":
+                updateStatus("Connected to SIP Gateway", "success");
+                break;
+              case "registered":
+                updateStatus("Registered and ready for calls", "success");
+                break;
+              case "ringing":
+                updateStatus("Calling...", "info");
+                break;
+              case "established":
+                updateStatus("Call connected!", "success");
+                callId = data.callId;
+                break;
+              case "disconnected":
+                updateStatus("Call ended", "info");
+                callId = null;
+                break;
+              case "error":
+                updateStatus(`Error: ${data.message}`, "error");
+                break;
+            }
+          } catch (error) {
+            log(`❌ Error parsing message: ${error.message}`);
+          }
+        };
+
+        ws.onerror = function (error) {
+          log(`❌ WebSocket error: ${error}`);
+          updateStatus("Connection failed", "error");
+        };
+
+        ws.onclose = function (event) {
+          log(`❌ WebSocket closed: ${event.code} ${event.reason}`);
+          updateStatus("Disconnected", "error");
+          ws = null;
+        };
+      }
+
+      function makeCall() {
+        if (!ws || ws.readyState !== WebSocket.OPEN) {
+          updateStatus("Not connected to gateway", "error");
+          return;
+        }
+
+        const phoneNumber = document.getElementById("phoneNumber").value;
+        if (!phoneNumber || phoneNumber.length < 10) {
+          updateStatus("Please enter a valid phone number", "error");
+          return;
+        }
+
+        callId = Date.now().toString();
+        ws.send(
+          JSON.stringify({
+            type: "invite",
+            target: phoneNumber,
+            callId: callId,
+          })
+        );
+
+        log(`📞 Making call to ${phoneNumber}`);
+      }
+
+      function hangup() {
+        if (!ws || ws.readyState !== WebSocket.OPEN || !callId) {
+          updateStatus("No active call to hangup", "error");
+          return;
+        }
+
+        ws.send(
+          JSON.stringify({
+            type: "bye",
+            callId: callId,
+          })
+        );
+
+        log("📴 Hanging up call");
+      }
+    </script>
+  </body>
+</html>

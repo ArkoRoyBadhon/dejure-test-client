@@ -1,0 +1,3905 @@
+{
+  "a": [
+    {
+      "word": "A communi observantia non est recedendum.",
+      "meaning": " There should be no departure from common observance or usage."
+    },
+    {
+      "word": "A l'impossible nul n'est tenu",
+      "meaning": " No one is bound to do what is impossible."
+    },
+    {
+      "word": "A mensa et thoro",
+      "meaning": " From bed and board."
+    },
+    {
+      "word": "A verbis legis non est recedendum",
+      "meaning": " From the words of the law there must be no departure."
+    },
+    {
+      "word": "A vinculo matrimonii",
+      "meaning": "  From the bond of matrimony"
+    },
+    {
+      "word": "Ab extra",
+      "meaning": " From outside."
+    },
+    {
+      "word": "Ab initio",
+      "meaning": " From the beginning."
+    },
+    {
+      "word": "Absentia ejus qui reipublicae causa abest, neque ei, neque alii damnosa esse debet",
+      "meaning": " The absence of him who is employed in the service of the state, ought not to be burdensome to him nor to others."
+    },
+    {
+      "word": "Abundans cautela non nocet",
+      "meaning": " Abundant caution does no harm."
+    },
+    {
+      "word": "Accessorium non ducit sed sequitur suum principale.",
+      "meaning": " The accessory does not lead, but follow its principal."
+    },
+    {
+      "word": "Accessorius sequit naturam sui principalis.",
+      "meaning": " An accessary follows the nature of his principal"
+    },
+    {
+      "word": "Accessorius sequitur",
+      "meaning": " One who is an accessory to the crime cannot be guilty of a more serious crime than the principal offender."
+    },
+    {
+      "word": "Accusare nemo debet se, nisi coram Deo.",
+      "meaning": " No one ought to accuse himself, unless before."
+    },
+    {
+      "word": "Acta exteriora iudicant interiora secreta",
+      "meaning": " Outward acts indicate the inward intent."
+    },
+    {
+      "word": "Actio exteriora indicant interiora secreta.",
+      "meaning": " External actions show internal secrets."
+    },
+    {
+      "word": "Actio non accrevit infra sex annos",
+      "meaning": " The action has not accrued within six years."
+    },
+    {
+      "word": "Actio non datur non damnificato.",
+      "meaning": " An action is not given to him who has received no damages."
+    },
+    {
+      "word": "Actio personalis moritur cum persona.",
+      "meaning": " A personal action dies with the person. This must be understood of an action for a tort only."
+    },
+    {
+      "word": "Actiones legis",
+      "meaning": "  Law suits."
+    },
+    {
+      "word": "Actor qui contra regulam quid adduxit, non est audiendus",
+      "meaning": " He ought not to be heard who advances a proposition contrary to the rules of law."
+    },
+    {
+      "word": "Actor sequitur forum rei.",
+      "meaning": " The plaintiff must follow the forum of the thing in dispute."
+    },
+    {
+      "word": "Actore non probante reus absolvitur.",
+      "meaning": " When the plaintiff does not prove his case, the defendant is absolved."
+    },
+    {
+      "word": "Actori incumbit onus probandi",
+      "meaning": " The burden of proof lies on the plaintiff."
+    },
+    {
+      "word": "Actus Dei nemini facit injuriam.",
+      "meaning": " The act of God does no injury; that is, no one is responsible for inevitable accidents"
+    },
+    {
+      "word": "Actus incaeptus cujus perfectio pendet, ex voluntate partium, revocari potest; si autem pendet ex vo",
+      "meaning": " An act already begun, the completion of which depends upon the will of the parties, may be recalled; but if it depend on the consent of a third person, or of a contingency, it cannot be recalled"
+    },
+    {
+      "word": "Actus legis nemini facit injuriam,",
+      "meaning": " The act of the law does no one an injury."
+    },
+    {
+      "word": "Actus legitimi non recipiunt modum",
+      "meaning": " Acts required by law to be done, admit of no qualification."
+    },
+    {
+      "word": "Actus me invito factus, non est meus actus.",
+      "meaning": " An act done by me against my will, is not my act."
+    },
+    {
+      "word": "Actus nemini facit injuriam",
+      "meaning": " The act of the law does no one wrong."
+    },
+    {
+      "word": "Actus non facit reum nisi mens sit rea",
+      "meaning": " The act does not make one guilty unless there be a criminal intent."
+    },
+    {
+      "word": "Actus non reum facit, nisi mens sit rea.",
+      "meaning": " An act does not make a person guilty, unless the intention be also guilty. This maxim applies only to criminal cases; in civil matters it is otherwise"
+    },
+    {
+      "word": "Actus reus",
+      "meaning": " A guilty deed or act."
+    },
+    {
+      "word": "Ad ea quae frequentius acciduunt jura adaptantur",
+      "meaning": " The laws are adapted to those cases which occur more frequently."
+    },
+    {
+      "word": "ad finem",
+      "meaning": " at the end"
+    },
+    {
+      "word": "Ad hoc",
+      "meaning": " For this purpose"
+    },
+    {
+      "word": "Ad infinitum",
+      "meaning": " Forever, without limit, to infinity."
+    },
+    {
+      "word": "ad litem",
+      "meaning": " appointed for a lawsuit"
+    },
+    {
+      "word": "Ad perpetuam rei memoriam",
+      "meaning": " For a perpetual memorial of the matter."
+    },
+    {
+      "word": "ad personam",
+      "meaning": " personal"
+    },
+    {
+      "word": "Ad proximum antecedens fiat relatio, nisi impediatur sententia.",
+      "meaning": " The antecedent bears relation to what follows next, unless it destroys the meaning of the sentence."
+    },
+    {
+      "word": "ad rem",
+      "meaning": " to the point; to the purpose"
+    },
+    {
+      "word": "Aedificare in tuo proprio solo non licet quod alteri noceat",
+      "meaning": " It is not lawful to build on one's own land what may be injurious to another."
+    },
+    {
+      "word": "aemulatio vicini",
+      "meaning": " spite against one's neighbour which, if a motive, may render unlawful an act other"
+    },
+    {
+      "word": "Aequilas sequitier legem.",
+      "meaning": " Equity follows the law."
+    },
+    {
+      "word": "Aequitas agit in personam.",
+      "meaning": " Equity acts upon the person."
+    },
+    {
+      "word": "Aequitas legem sequitur",
+      "meaning": " Equity follows the law."
+    },
+    {
+      "word": "Aequitas nunquam contravenit legem",
+      "meaning": " Equity never contradicts the law"
+    },
+    {
+      "word": "Aequum et bonum, est lex legum",
+      "meaning": " What is good and equal, is the law of laws."
+    },
+    {
+      "word": "Aestimatio praeteriti delicti ex postremo facto nunquam crescit.",
+      "meaning": " The estimation of a crime committed never increased from a subsequent fact."
+    },
+    {
+      "word": "Affirmati, non neganti incumbit probatio.",
+      "meaning": " The proof lies upon him who affirms, not on him who denies."
+    },
+    {
+      "word": "Alibi",
+      "meaning": " At another place, elsewhere."
+    },
+    {
+      "word": "Alienatio rei praefertur juri accrescendi",
+      "meaning": " Alienation is preferred by law rather than accumulation."
+    },
+    {
+      "word": "Aliud est celare, aliud tacere.",
+      "meaning": " To conceal is one thing, to be silent another."
+    },
+    {
+      "word": "Aliunde",
+      "meaning": " From elsewhere, or, from a different source"
+    },
+    {
+      "word": "Allegans contraria non est audiendus",
+      "meaning": " One making contradictory statements is not to be heard."
+    },
+    {
+      "word": "Allegans suam turpitudinem non est audiendus",
+      "meaning": " One alleging his own infamy is not to be heard."
+    },
+    {
+      "word": "Allegatio contra factum non est admittenda",
+      "meaning": " An allegation contrary to a deed is not to be heard."
+    },
+    {
+      "word": "Alternatica petitio non est audienda.",
+      "meaning": " An alternate petition is not to be heard."
+    },
+    {
+      "word": "altius non tollendi",
+      "meaning": " a servitude preventing the servient owner from building beyond a certain heigh"
+    },
+    {
+      "word": "Ambiguitas contra stipulatorem est",
+      "meaning": " An ambiguity is most strongly construed against the party using it."
+    },
+    {
+      "word": "Ambiguitas verborum latens verificatione suppletur; nam quod exfacto oritur ambiguum verificatione f",
+      "meaning": " A hidden ambiguity of the words is supplied by the verification, for whatever ambiguity arises concerning the deed itself is removed by the verification of the deed."
+    },
+    {
+      "word": "Ambiguitas verborum patens nulla verificatione excluditur",
+      "meaning": " A patent ambiguity is never helped by averment."
+    },
+    {
+      "word": "Amicus curiae",
+      "meaning": " A friend of the Court."
+    },
+    {
+      "word": "Angliae jura in omni casu libertati dant favorem",
+      "meaning": " The laws of England are favorable in every case to liberty."
+    },
+    {
+      "word": "Animo furandi",
+      "meaning": " With an intention of stealing."
+    },
+    {
+      "word": "Animo testandi",
+      "meaning": " With an intention of making a will."
+    },
+    {
+      "word": "Animus ad se omne jus ducit.",
+      "meaning": " It is to the intention that all law applies."
+    },
+    {
+      "word": "Animus moninis est anima scripti",
+      "meaning": " The intention of the party is the soul of the instrument."
+    },
+    {
+      "word": "Annus luctus",
+      "meaning": " The year of mourning."
+    },
+    {
+      "word": "Ante",
+      "meaning": " Before."
+    },
+    {
+      "word": "Apices juris non sunt jura.",
+      "meaning": " Points of law are not laws."
+    },
+    {
+      "word": "apud acta",
+      "meaning": " at the time of the proceedings"
+    },
+    {
+      "word": "Aqua cedit solo.",
+      "meaning": " The water yields or accompanies the soil. The grant of the soil or land carries the water."
+    },
+    {
+      "word": "Aqua curit et debet currere.",
+      "meaning": " Water runs and ought to run."
+    },
+    {
+      "word": "Aqua currit et debet currere, ut currere solebat",
+      "meaning": " Water runs and ought to run."
+    },
+    {
+      "word": "Arbitrium est judicium.",
+      "meaning": " An award is a judgment."
+    },
+    {
+      "word": "Arbor dum crescit; lignum cum crescere nescit",
+      "meaning": " A tree while it grows, wood when it cannot grow."
+    },
+    {
+      "word": "Argumentum ab auctoritate fortissimum est in lege",
+      "meaning": " An argument drawn from authority is the strongest in law."
+    },
+    {
+      "word": "Argumentum ab authoritate est fortissimum in lege",
+      "meaning": " An argument drawn from authority is the strongest in law."
+    },
+    {
+      "word": "Argumentum ab impossibilii plurimum valet in lege",
+      "meaning": " An argument from impossibility is very strong in law."
+    },
+    {
+      "word": "Argumentum ab inconvenienti est validum in lege; quia lex non permittit aliquod inconveniens.",
+      "meaning": " An argument drawn from what is inconvenient is good in law, because the law will not permit any inconvenience."
+    },
+    {
+      "word": "Argumentum ad hominem",
+      "meaning": " An argument directed a the person."
+    },
+    {
+      "word": "Argumentum ad ignoratiam",
+      "meaning": " An argument based upon ignorance (i.e. of one's adversary)."
+    },
+    {
+      "word": "Argumentum divisione est fortissimum in jure.",
+      "meaning": " An argument arising from a division is most powerful in law."
+    },
+    {
+      "word": "Argumentum majori ad minus negative non valet; valet converso.",
+      "meaning": " An argument from the greater to the less is of no force negatively; conversely it is."
+    },
+    {
+      "word": "Argumentum simili valet in lege.",
+      "meaning": " An argument drawn from a similar case, or analogy, avails in law."
+    },
+    {
+      "word": "Arma in armatos sumere jura sinunt",
+      "meaning": " The laws permit the taking up of arms against the armed."
+    },
+    {
+      "word": "Assentio mentium",
+      "meaning": " The meeting of minds, i.e. mutual assent."
+    },
+    {
+      "word": "Assignatus utitur jure auctoris",
+      "meaning": " An assignee is clothed with rights of his assignor."
+    },
+    {
+      "word": "Audi alteram partem",
+      "meaning": " Hear the other side."
+    },
+    {
+      "word": "Augupia verforum sunt judice indigna.",
+      "meaning": " A twisting of language is unworthy of a judge."
+    },
+    {
+      "word": "Aula regis",
+      "meaning": " The King's Court."
+    },
+    {
+      "word": "avizandum",
+      "meaning": " the period during which the court considers its judgement"
+    }
+  ],
+  "b": [
+    {
+      "word": "beneficium",
+      "meaning": " a privilege, benefit, or right"
+    },
+    {
+      "word": "Benignior sententia in verbis generalibus seu dubiis est preferenda",
+      "meaning": " The more favorable construction is to be placed on general or doubtful words."
+    },
+    {
+      "word": "Bis dat qui cito dat",
+      "meaning": " He gives (pays) twice who pays promptly."
+    },
+    {
+      "word": "Bona fides non patitur, ut bis idem exigatur.",
+      "meaning": " Natural equity or good faith do no allow us to demand twice the payment of the same thing."
+    },
+    {
+      "word": "Bona vacantia",
+      "meaning": " Goods without an owner"
+    },
+    {
+      "word": "Boni judicis est ampliare jurisdictionem.",
+      "meaning": " It is the part of a good judge to enlarge his jurisdiction; that, his remedial authority."
+    },
+    {
+      "word": "Boni judicis est causas litium derimere.",
+      "meaning": " It is the duty of a good judge to remove the cause of litigation."
+    },
+    {
+      "word": "Boni judicis est judicium sine dilatione mandare executioni",
+      "meaning": " It is the duty of a good judge to cause execution to issue on a judgment without delay."
+    },
+    {
+      "word": "Boni judicis lites dirimere est",
+      "meaning": " It is the duty of a good judge to prevent litigation."
+    },
+    {
+      "word": "Bonum defendentis ex integr caus, malum ex quolibet defectu.",
+      "meaning": " The good of a defendant arises from a perfect case, his harm from some defect."
+    },
+    {
+      "word": "Bonum necessarium extra terminos necessitatis non est bonum.",
+      "meaning": " Necessary good is not good beyond the bounds of necessity."
+    },
+    {
+      "word": "Breve judiciale non cadit pro defectu formae",
+      "meaning": " A judicial writing does not fail through defect of form."
+    }
+  ],
+  "c": [
+    {
+      "word": "C'est le crime qui fait la honte, et non pas l'echafaud.",
+      "meaning": " It is the crime which causes the hsame, and not the scaffold."
+    },
+    {
+      "word": "Cadit quaestio",
+      "meaning": " The matter admits of no further argument."
+    },
+    {
+      "word": "Cassetur billa (breve)",
+      "meaning": " Let the writ be quashed."
+    },
+    {
+      "word": "Casus omissus et oblivione datus dispositioni communis juris relinquitur.",
+      "meaning": " A case omitted and given to oblivion is left to the disposal of the common law."
+    },
+    {
+      "word": "Catalla just possessa amitti non possunt.",
+      "meaning": " Chattels justly possessed cannot be lost."
+    },
+    {
+      "word": "Catalla reputantur inter minima in lege",
+      "meaning": " Chattels are considered in law among the minor things."
+    },
+    {
+      "word": "Causa proxima, non remota spectatur",
+      "meaning": " The immediate, and not the remote cause is to be considered."
+    },
+    {
+      "word": "Caveat emptor.",
+      "meaning": " Let the purchaser beware."
+    },
+    {
+      "word": "Caveat venditor",
+      "meaning": " Let the seller beware."
+    },
+    {
+      "word": "Cavendum est fragmentis.",
+      "meaning": " Beware of fragments"
+    },
+    {
+      "word": "Cepi corpus et est languidum",
+      "meaning": " I have taken the body and the prisoner is sick."
+    },
+    {
+      "word": "Cepi corpus et paratum habeo",
+      "meaning": " I have taken the body and have it ready."
+    },
+    {
+      "word": "Cessante causa, cessat effectus.",
+      "meaning": " The cause ceasing, the effect must cease."
+    },
+    {
+      "word": "Ceteris paribus",
+      "meaning": " Other things being equal."
+    },
+    {
+      "word": "Charta de non ente non valet.",
+      "meaning": " A charter or deed of a thing not in being, is not valid."
+    },
+    {
+      "word": "Chirographum apud debitorem repertum praesumitur solutum.",
+      "meaning": " A deed or bond found with the debtor is presumed to be paid."
+    },
+    {
+      "word": "circa",
+      "meaning": " approximately"
+    },
+    {
+      "word": "Circuitus est evitandus.",
+      "meaning": " Circuity is to be avoided."
+    },
+    {
+      "word": "Clausula inconsuetae semper indicunt suspicionem.",
+      "meaning": " Unusual clauses always induce a suspicion."
+    },
+    {
+      "word": "Clausula quae abrogationem excludit ab initio non valet.",
+      "meaning": " A clause in a law which precludes its abrogation, is invalid from the beginning."
+    },
+    {
+      "word": "Clausula vel dispositio inutilis per praesumptionem remotam vel causam, ex post facto non fulcitur",
+      "meaning": " A useless clause or disposition is not supported by a remote presumption, or by a cause arising afterwards."
+    },
+    {
+      "word": "Cogitationis poenam nemo patitur.",
+      "meaning": " No one is punished for merely thinking of a crime."
+    },
+    {
+      "word": "Commodum ex injuri su non habere debet.",
+      "meaning": " No man ought to derive any benefit of his own wrong"
+    },
+    {
+      "word": "Communis error facit jus.",
+      "meaning": " A common error makes law. What was af first ellegal, being repeated many times, is presumed to have acquired the force of usage, and then it would be wrong to depart from it. The converse of this maxim is communis error no facit just. A common error does not make law."
+    },
+    {
+      "word": "conductio indebiti",
+      "meaning": " an action for repayment of money paid in error"
+    },
+    {
+      "word": "Confessio facta in judicio omni probatione major est.",
+      "meaning": " A confession made in court is of greater effect than any proof"
+    },
+    {
+      "word": "Confirmare nemo potest priusquam just ei acciderit.",
+      "meaning": " No one can confirm beforethe right accrues to him."
+    },
+    {
+      "word": "Confirmatio est nulla, ubi donum praecedens est invalidum.",
+      "meaning": " A confirmation is null where the preceding gift is invalid."
+    },
+    {
+      "word": "Conjunctio mariti et faeminae est de jure naturae.",
+      "meaning": " The union of a man and a woman is of the law of nature."
+    },
+    {
+      "word": "Consensu",
+      "meaning": " Unanimously or, by general consent."
+    },
+    {
+      "word": "consensus",
+      "meaning": " agreement"
+    },
+    {
+      "word": "Consensus ad idem",
+      "meaning": " Agreement as to the same things."
+    },
+    {
+      "word": "Consensus facit legem.",
+      "meaning": " Consent makes the law. A contract is a law between the parties, which can acquire force only by consent."
+    },
+    {
+      "word": "Consensus non concubitus facit nuptiam.",
+      "meaning": " Consent, not lying together, constitutes marriage."
+    },
+    {
+      "word": "Consensus tollit errorem.",
+      "meaning": " Consent removes or obviates a mistake."
+    },
+    {
+      "word": "Consentientes et agentes pari poen plectentur.",
+      "meaning": " Those consenting and those perpetrating are embraced in the same punishment."
+    },
+    {
+      "word": "Consequentiae non est consequentia.",
+      "meaning": " A consequence ought not to be drawn from another consequence"
+    },
+    {
+      "word": "Consilii, non fraudulenti, nulla est obligatio.",
+      "meaning": " Advice, unless fraudulent, does not create an obligation."
+    },
+    {
+      "word": "Constructio contra rationem introducta, potius usurpatio quam consuetudo appellari debet.",
+      "meaning": " A custom introduced against reason ought rather to be called an usurpation than a custom."
+    },
+    {
+      "word": "Construction legis non facit injuriam.",
+      "meaning": " The construction of law works not an injury."
+    },
+    {
+      "word": "Consuetudo debet esse certa.",
+      "meaning": " A custom ought to be certain."
+    },
+    {
+      "word": "Consuetudo est altera lex.",
+      "meaning": " Custom is another law."
+    },
+    {
+      "word": "Consuetudo est optimus interpres legum.",
+      "meaning": " Custome is the best expounder of the law."
+    },
+    {
+      "word": "Consuetudo loci observanda est.",
+      "meaning": " The custom of the place is to be observed."
+    },
+    {
+      "word": "Consuetudo praescripta et legitima vincit legem.",
+      "meaning": " A prescriptive and legitimate custom overcomes the law."
+    },
+    {
+      "word": "Consuetudo semel reprobata non potest amplius induci.",
+      "meaning": " Custom once disallowed cannot again be produced."
+    },
+    {
+      "word": "Consuetudo voluntis ducit, lex nolentes trahit.",
+      "meaning": " Custom leads the willing, law, law compels or draws the unwilling."
+    },
+    {
+      "word": "Contemporanea expositio est optima et fortissima in lege.",
+      "meaning": " A contemporaneous exposition is the best and most powerful in the law."
+    },
+    {
+      "word": "Contestio litis eget terminos contradictaris.",
+      "meaning": " An issue requires terms of contradiction; that is, there can be no issue without an affirmative on one side and a negative on the other."
+    },
+    {
+      "word": "Contr negantem principia non est disputandum.",
+      "meaning": " There is no disputing against or denying principles."
+    },
+    {
+      "word": "Contr non volentem agere nulla currit praescriptio.",
+      "meaning": " No prescription runs against a person unable to act."
+    },
+    {
+      "word": "Contr veritatem lex numquam aliquid permittit.",
+      "meaning": " The law never suffers anything contrary to truth.But sometimes it allows a conclusive presumption in opposition to truth."
+    },
+    {
+      "word": "Contra",
+      "meaning": " To the contrary"
+    },
+    {
+      "word": "Contra bonos mores",
+      "meaning": " Against good morals."
+    },
+    {
+      "word": "Contra non valentem agere nulla currit praescriptio",
+      "meaning": " No prescription runs against a person not able to act."
+    },
+    {
+      "word": "Contractus est quasi actus contra actum",
+      "meaning": " A contract is an act as it were against an act."
+    },
+    {
+      "word": "Contractus ex turpi caus, vel contr bonos mores nullus est.",
+      "meaning": " A contract founded on a base and unlawful consideration, or against good morals, is null."
+    },
+    {
+      "word": "Contractus legem ex conventione accipiunt.",
+      "meaning": " The agreement of the parties makes the law of the contract."
+    },
+    {
+      "word": "Conventio et modus vincunt legem",
+      "meaning": " A contract and agreement overcome the law."
+    },
+    {
+      "word": "Conventio privatorum non potest publico juri derogare",
+      "meaning": " An agreement of private persons cannot derogate from public right."
+    },
+    {
+      "word": "Conventio vincit legem.",
+      "meaning": " The agreement of the parties overcomes or prevails against the law."
+    },
+    {
+      "word": "Copulatio verborum indicat acceptionem in eodem sensu.",
+      "meaning": " Coupling words together shows that they ought to be understood in the same sense"
+    },
+    {
+      "word": "Coram Domino Rege",
+      "meaning": " In the presence of our Lord the King."
+    },
+    {
+      "word": "Coram non judice",
+      "meaning": " Before one who is not a judge."
+    },
+    {
+      "word": "Corporalis injuria non recipit aestimationem de futuro.",
+      "meaning": " A personal injury does no receive satisfaction from a future course of proceding."
+    },
+    {
+      "word": "Corpus",
+      "meaning": " Body"
+    },
+    {
+      "word": "Corpus delicti",
+      "meaning": " The body, i.e. the gist of crime."
+    },
+    {
+      "word": "Corpus humanum non recipit aestimationem",
+      "meaning": " A human body is not susceptible of appraisement."
+    },
+    {
+      "word": "Crescente malitia crescere debet et poena",
+      "meaning": " Vice increasing, punishment ought also to increase."
+    },
+    {
+      "word": "Crimen omnia ex se nata vitiat",
+      "meaning": " Crime vitiates every thing, which springs from it."
+    },
+    {
+      "word": "Crimen trahit personam",
+      "meaning": " The crime carries the person."
+    },
+    {
+      "word": "Cui pater est populus non habet ille patrem.",
+      "meaning": " He to whom the people is father, has not a father."
+    },
+    {
+      "word": "Cuilibet in arte sua herito credendum est.",
+      "meaning": " Every one should be believed skilful in how own art"
+    },
+    {
+      "word": "Cujus est commodum ejus debet esse incommodum.",
+      "meaning": " He who receives the benefit should also bear the disadvantage."
+    },
+    {
+      "word": "Cujus est divisio alterius est electio.",
+      "meaning": " Which ever of two parties has the division, the other has the choice."
+    },
+    {
+      "word": "Cujus est solum, ejus est usque ad caelum.",
+      "meaning": " He who owns the soil, owns up to the sky"
+    },
+    {
+      "word": "Cujus est solum, ejus est usque ad coelam; et ad inferos",
+      "meaning": " He who owns the soil owns it up to the sky; and to its depth."
+    },
+    {
+      "word": "Cujus per errorem dati repetitio est, ejus consult dati donatio est.",
+      "meaning": " Whoever pays by mistake what he does not owe, may recover it back; but he who pays, knowing he owes nothing; is presumed to give."
+    },
+    {
+      "word": "Cujusque rei potissima pars principium est.",
+      "meaning": " The principal part of everything is the beginning."
+    },
+    {
+      "word": "Culpa est immiscere se rei ad se non pertinenti.",
+      "meaning": " It is a fault to meddle with what does not belong to or does not concern you."
+    },
+    {
+      "word": "Culpa lata aequiparatur dolo.",
+      "meaning": " A concealed fault is equal to a deceit."
+    },
+    {
+      "word": "Culpa paena par esto.",
+      "meaning": " Let the punishment be proportioned to the crime."
+    },
+    {
+      "word": "Culpa tenet suos auctores.",
+      "meaning": " A fault finds its own."
+    },
+    {
+      "word": "Cum adsunt testimonia rerum quid opus est verbis.",
+      "meaning": " When the proofs of facts are present, what need is there of words."
+    },
+    {
+      "word": "Cum confitente sponte mitius est agendum.",
+      "meaning": " One making a voluntary confession, is to be dealt with more mercifully."
+    },
+    {
+      "word": "Cum legitimae nuptiae factae sunt, patrem liberi sequuntur.",
+      "meaning": " Children born under a legitimate marriage follow the condition of the father."
+    },
+    {
+      "word": "Curiosa et captiosa intepretatio in lege reprobatur.",
+      "meaning": " A curious and captious interpretation in the law is to be reproved"
+    },
+    {
+      "word": "Currit tempus contra desides et sui juris contemptores.",
+      "meaning": " Time runs against the slothful and those who neglect their rights."
+    },
+    {
+      "word": "Cursus curiae est lex curiae.",
+      "meaning": " The practice of the court is the law of the court."
+    },
+    {
+      "word": "Custos morum",
+      "meaning": " A guardian of morals"
+    }
+  ],
+  "d": [
+    {
+      "word": "damnum",
+      "meaning": " damage, loss"
+    },
+    {
+      "word": "damnum fatale",
+      "meaning": " a loss due to an unusual accident e.g. a storm or a flood"
+    },
+    {
+      "word": "Damnum sine injuria",
+      "meaning": " damage without legal injury."
+    },
+    {
+      "word": "De bonis asportatis",
+      "meaning": " Of goods carried away."
+    },
+    {
+      "word": "De bonis non administratis",
+      "meaning": " Of goods not administered"
+    },
+    {
+      "word": "De die in diem",
+      "meaning": " From day to day."
+    },
+    {
+      "word": "De facto",
+      "meaning": " In fact."
+    },
+    {
+      "word": "De fide et officio judicis non recipitur quaestio; sed de scientia, sive error sit juris sive facti.",
+      "meaning": " Of the credit and duty of a judge, no question can arise; but it is otherwise respecting his knowledge, whether he be mistaken as to the law or fact."
+    },
+    {
+      "word": "De futuro",
+      "meaning": " In the future."
+    },
+    {
+      "word": "De integro",
+      "meaning": " As regards the whole."
+    },
+    {
+      "word": "De jure",
+      "meaning": " Rightful, by right."
+    },
+    {
+      "word": "De jure judices, de facto juratores, respondent.",
+      "meaning": " The judges answer to the law, the jury to the facts."
+    },
+    {
+      "word": "de lege ferenda",
+      "meaning": " according to the law as it ought to be"
+    },
+    {
+      "word": "de lege lata",
+      "meaning": " according to the current lawde lege lata: according to the current law"
+    },
+    {
+      "word": "de legibus",
+      "meaning": " of law"
+    },
+    {
+      "word": "de minimis",
+      "meaning": " trivial"
+    },
+    {
+      "word": "De minimis lex non curat",
+      "meaning": " The law does not notice trifling matters."
+    },
+    {
+      "word": "De minimis non curat lex.",
+      "meaning": " The law does not notice or care for trifling matters."
+    },
+    {
+      "word": "De morte hominis nulla est cunctatio longa",
+      "meaning": " When the death of a human being may be the consequence, no delay is long. When the question is on the life or death of a man, no delay is too long to admit of inquiring into facts."
+    },
+    {
+      "word": "De morte hominis nulla est cunctatio longa.",
+      "meaning": " When the death of a human being may be the consequence, no delay is long. When the question is on the life or death of a man, no delay is too long to admit of inquiring into facts."
+    },
+    {
+      "word": "De non apparentibus et non existntibus eadem est ratio.",
+      "meaning": " The reason is the same respecting things which do not appear, and those which do not exist."
+    },
+    {
+      "word": "De novo",
+      "meaning": " Starting afresh."
+    },
+    {
+      "word": "De similibus ad similia eadem ratione procedendum est.",
+      "meaning": " From similars to similars, we are to proceed by the same rule."
+    },
+    {
+      "word": "Debile fundamentum fallit opus",
+      "meaning": " Where there is a weak foundation, the work fails."
+    },
+    {
+      "word": "Debita sequuntur personam debitoria",
+      "meaning": " Debts follow the person of the debtor."
+    },
+    {
+      "word": "Debitor non praesumitur donare",
+      "meaning": " A debtor is not presumed to make a gift."
+    },
+    {
+      "word": "Debitum et contractus sunt nullius loci",
+      "meaning": " Debt and contract are of no particular place."
+    },
+    {
+      "word": "Debitum in praesenti, solvendum in futuro",
+      "meaning": " A present debt is to be discharged in the future."
+    },
+    {
+      "word": "Delegata potestas non potest delegari",
+      "meaning": " A delegated authority cannot be again delegated."
+    },
+    {
+      "word": "Derivativa potestas non potest esse major primitiva",
+      "meaning": " The power which is derived cannot be greater than that from which it is derived."
+    },
+    {
+      "word": "Deus solus haeredem facere potest, non homo",
+      "meaning": " God alone, not man, can make an heir."
+    },
+    {
+      "word": "dictum (pl. dicta",
+      "meaning": " a saying or usu. a judicial statement"
+    },
+    {
+      "word": "Dies Dominicus non est juridicus",
+      "meaning": " Sunday is not a day in law."
+    },
+    {
+      "word": "Discretio est discernere per legem quid sit justum",
+      "meaning": " Discretion is to discern through law what is just."
+    },
+    {
+      "word": "Dispensatio est vulnus, quod vulnerat jus commune.",
+      "meaning": " A dispensation is a wound which wounds a common right."
+    },
+    {
+      "word": "Dissimilum dissimiles est ratio.",
+      "meaning": " Of disimilars the rule is dissimilar."
+    },
+    {
+      "word": "Divinatio non interpretatio est, quae omnino recedit a litera.",
+      "meaning": " It is a guess not interpretation which altogether departs from the letter"
+    },
+    {
+      "word": "Doli incapax",
+      "meaning": " Incapable of crime."
+    },
+    {
+      "word": "Dolosus versatur generalibus.",
+      "meaning": " A deceiver deals in generals."
+    },
+    {
+      "word": "Dolus auctoris non nocet successori.",
+      "meaning": " The fraud of a possessor does not prejudice the successor."
+    },
+    {
+      "word": "Dolus circuitu non purgator.",
+      "meaning": " Fraud is not purged by circity."
+    },
+    {
+      "word": "Dominium",
+      "meaning": " Ownership."
+    },
+    {
+      "word": "Domus sua cuique est tutissimum refugium.",
+      "meaning": " Every man's house is his castle"
+    },
+    {
+      "word": "Domus tutissimum cuique refugium atque receptaculum.",
+      "meaning": " The habitation of each one is an inviolable asylum for him."
+    },
+    {
+      "word": "Dona clandestina sunt semper suspiciosa",
+      "meaning": " Clandestine gifts are always suspicious."
+    },
+    {
+      "word": "Donatio non praesumitur.",
+      "meaning": " A gift is not presumed."
+    },
+    {
+      "word": "Donatio perficitur possesione accipientis.",
+      "meaning": " A gift is rendered complete by the possession of the receiver."
+    },
+    {
+      "word": "Donatur nunquam desinit possidere antequam donatarius incipiat possidere.",
+      "meaning": " He that gives never ceases to possess until he that receives begins to possess."
+    },
+    {
+      "word": "Dormiunt aliquando leges, nunquam moriuntur.",
+      "meaning": " The laws sometimes sleep, but neyer die."
+    },
+    {
+      "word": "Dormiunt leges aliquando, nunquam moriuntur",
+      "meaning": " The laws sometimes sleep, but never die."
+    },
+    {
+      "word": "Dos de dote peti non debet.",
+      "meaning": " Dower ought not to be sought from dower."
+    },
+    {
+      "word": "Doti lex favet; praemium pudoris est; ideo parcatur",
+      "meaning": " The law favors dower; it is the reward of chastity, therefore let it be preserved."
+    },
+    {
+      "word": "Duas uxores eodem tempore habere non potest.",
+      "meaning": " It is not lawful to have two wives at one time."
+    },
+    {
+      "word": "Dubitante",
+      "meaning": " Doubting the correctness of the decision."
+    },
+    {
+      "word": "Duo non possunt in solido unam rem possidere.",
+      "meaning": " Two cannot possess one thing each in entirety."
+    },
+    {
+      "word": "Duplicationem possibilitatis lex non patitur.",
+      "meaning": " It is not allowed to double a possibility."
+    }
+  ],
+  "e": [
+    {
+      "word": "e silentio",
+      "meaning": " by the absence of contrary evidence"
+    },
+    {
+      "word": "Ea est accipienda interpretation, qui vitio curet.",
+      "meaning": " That interpretation is to be received, which will not intend a wrong."
+    },
+    {
+      "word": "Ei incumbit probatio qui",
+      "meaning": " The onus of proving a fact rests upon the man."
+    },
+    {
+      "word": "Ei incumbit probatio qui dicit, non qui negat.",
+      "meaning": " The burden of the proof lies upon him who affirms, not he who denies."
+    },
+    {
+      "word": "Ei nihil turpe, cui nihil satis.",
+      "meaning": " To whom nothing is base, nothing is sufficient."
+    },
+    {
+      "word": "Ejus est non nolle, qui potest velle.",
+      "meaning": " He who may consent tacitly, may consent expressly."
+    },
+    {
+      "word": "Ejus est periculum cujus est dominium aut commodum.",
+      "meaning": " He who has the risk has the dominion or advantage."
+    },
+    {
+      "word": "Elect un vi, non datur recursus ad alteram.",
+      "meaning": " When there is concurrence of means, he who has chosen one cannot have recourse to another."
+    },
+    {
+      "word": "Electio semel facta, et placitum testatum, non patitur regressum.",
+      "meaning": " Election once made, and plea witnessed, suffers not a recall."
+    },
+    {
+      "word": "Electiones fiant rite et libere sine interruptione aliqua.",
+      "meaning": " Elections should be made in due form andfreely, without any interruption."
+    },
+    {
+      "word": "Enumeratio infirmat regulam in casibus non enumeratis.",
+      "meaning": " Enumeration affirms the rule in cases not enumerated."
+    },
+    {
+      "word": "Error fucatus nud veritate in multis est probabilior; et saepenumero rationibus vincit veritatem err",
+      "meaning": " Error artfully colored is in many things more probable than naked truth; and frequently error conquers truth and reasoning."
+    },
+    {
+      "word": "Error juris nocet.",
+      "meaning": " Error of law is injurious."
+    },
+    {
+      "word": "Error scribentis nocere non debet.",
+      "meaning": " An error made by a clerk ought not to injure; a clerical error may be corrected."
+    },
+    {
+      "word": "Errores ad sua principia referre, est refellere.",
+      "meaning": " To refer errors to their origin is to refute them."
+    },
+    {
+      "word": "Est autem vis legem simulans.",
+      "meaning": " Violence may also put on the mask of law."
+    },
+    {
+      "word": "Est boni judicis ampliare jurisdictionem.",
+      "meaning": " It is the part of a good judge to extend the jurisdiction."
+    },
+    {
+      "word": "esto",
+      "meaning": " suppose it to be so"
+    },
+    {
+      "word": "Et cetera",
+      "meaning": " Other things of that type"
+    },
+    {
+      "word": "Ex antecedentibus et consequentibus fit optima interpretatio. .",
+      "meaning": " The best interpration is made from antecedents and consequents."
+    },
+    {
+      "word": "Ex cathedra",
+      "meaning": " With official authority."
+    },
+    {
+      "word": "Ex concessis",
+      "meaning": " In view of what has already been accepted/"
+    },
+    {
+      "word": "Ex diuturnitate temporis, amnia praesumuntur solemniter esse acta.",
+      "meaning": " From length of time, all things are presumed to have been done in due form."
+    },
+    {
+      "word": "Ex dolo malo actio non oritur",
+      "meaning": " A right of action cannot arise out of fraud."
+    },
+    {
+      "word": "Ex dolo malo non oritur action.",
+      "meaning": " Out of fraud no action arises."
+    },
+    {
+      "word": "Ex facie",
+      "meaning": " On the fact of it."
+    },
+    {
+      "word": "Ex facto jus oritur.",
+      "meaning": " Law arises out of fact; that is, its application must be to facts."
+    },
+    {
+      "word": "Ex gratia",
+      "meaning": " Out of kindness, voluntary."
+    },
+    {
+      "word": "Ex malificio non oritur contractus.",
+      "meaning": " A contract cannot arise out of an act radically wrong and illegal."
+    },
+    {
+      "word": "Ex multitudine signorum, colligitur identitas vera.",
+      "meaning": " From the great number of signs true identity may be ascertained."
+    },
+    {
+      "word": "Ex nihilo nil fit",
+      "meaning": " From nothing nothing comes."
+    },
+    {
+      "word": "Ex nudo pacto actio non oritur",
+      "meaning": " No action arises on a contract without a consideration."
+    },
+    {
+      "word": "Ex nudo pacto non oritur action.",
+      "meaning": " No actions arises on a naked contract without a consideration."
+    },
+    {
+      "word": "ex officio",
+      "meaning": " by virtue of one's office"
+    },
+    {
+      "word": "Ex parte",
+      "meaning": " Proceeding brought by one person in the absence of another."
+    },
+    {
+      "word": "Ex praecedentibus et consequentibus optima fit interpretatio",
+      "meaning": " The best interpretation is made from things preceding and following."
+    },
+    {
+      "word": "Ex tota materia emergat resolutio.",
+      "meaning": " The construction or resolution should arise out of the whole subject matter."
+    },
+    {
+      "word": "Ex turpi contractu non oritur actio.",
+      "meaning": " No action arises on an immoral contract."
+    },
+    {
+      "word": "Ex uno disces omnes.",
+      "meaning": " From one thing you can discern all."
+    },
+    {
+      "word": "Exceptio ejus rei cujus petitiur dissolutio nulla est.",
+      "meaning": " There can be no plea of that thing of which the dissolution is sought."
+    },
+    {
+      "word": "Exceptio falsi omnium ultima.",
+      "meaning": " A false plea is the basest of all things."
+    },
+    {
+      "word": "Exceptio firmat regulam in casibus non exceptis.",
+      "meaning": " The exception affirms the rule in cases not excepted."
+    },
+    {
+      "word": "Exceptio firmat regulam in contrarium.",
+      "meaning": " The exception affirms the rule in contrary cases."
+    },
+    {
+      "word": "Exceptio nulla est versus actionem quae exceptionem perimit.",
+      "meaning": " There can be no plea against an action which entirely destroys the plea."
+    },
+    {
+      "word": "Exceptio probat regulam",
+      "meaning": " An exception proves the rule."
+    },
+    {
+      "word": "Exceptio probat regulam de rebus non exceptio.",
+      "meaning": " An exception proves the rule concerning things not excepted."
+    },
+    {
+      "word": "Exceptio quoque regulam declarat.",
+      "meaning": " The exception also declares the rule."
+    },
+    {
+      "word": "Exceptio semper ultima ponenda est.",
+      "meaning": " An exception is always to be put last."
+    },
+    {
+      "word": "Excusat aut extenuat delictum in capitalibus, quod non operatur idem in civilibus.",
+      "meaning": " A wrong in capital cases is excused or palliated which would not be so in civil matters."
+    },
+    {
+      "word": "Executio est executio juris secundum judicium",
+      "meaning": " Execution is the fulfillment of the law in accordance with the judgment."
+    },
+    {
+      "word": "Executio est finis et fructus legis",
+      "meaning": " An execution is the end and the fruit of the law."
+    },
+    {
+      "word": "Executio legis non habet injuriam",
+      "meaning": " Execution of the law does no injury"
+    },
+    {
+      "word": "Exempla illustrant non restringunt legem.",
+      "meaning": " Examples illustrate and do not restrict the law."
+    },
+    {
+      "word": "Expedit reipublicae ut sit finis litium.",
+      "meaning": " It is for the public good that there be an end of litigation."
+    },
+    {
+      "word": "Expressa nocent, non expressa non nocent.",
+      "meaning": " Things expressed may be prejudicial; things not expressed are not."
+    },
+    {
+      "word": "Expressio eorum quae tacite insunt nihil operatur.",
+      "meaning": " The expression of those things which are tacitly implied operates nothing."
+    },
+    {
+      "word": "Expressio unius est exclusio alterius.",
+      "meaning": " The expression of one thing is the exclusion of another."
+    },
+    {
+      "word": "Expressum facit cessare tacitum.",
+      "meaning": " What is expressed renders what is implied silent."
+    },
+    {
+      "word": "Extra legem positus est civiliter mortuus.",
+      "meaning": " One out of the pale of the law, (an outlaw,) is civilly dead."
+    },
+    {
+      "word": "Extra territorium jus dicenti non paretur impune.",
+      "meaning": " One who exercises jurisdiction out of his territory is not obeyed with impunity."
+    }
+  ],
+  "f": [
+    {
+      "word": "Faciendum",
+      "meaning": " Something which is to be done"
+    },
+    {
+      "word": "Facta sunt potentiora verbis.",
+      "meaning": " Facts are more powerful than words."
+    },
+    {
+      "word": "Factum",
+      "meaning": " An act or deed"
+    },
+    {
+      "word": "Factum judice quod ad ujus officium non spectat, non ratum est.",
+      "meaning": " An act of a judge which does not relate to his office, is of no force."
+    },
+    {
+      "word": "Factum negantis nulla probatio.",
+      "meaning": " Negative facts are not proof."
+    },
+    {
+      "word": "Factum non dictur quod non perseverat.",
+      "meaning": " It cannot be called a deed which does not hold out or persevere."
+    },
+    {
+      "word": "Factum unius alteri nocere non debet.",
+      "meaning": " The deed of one should not hurt the other."
+    },
+    {
+      "word": "Facultas probationum non est angustanda.",
+      "meaning": " The faculty or right of offering proof is not to be narrowed."
+    },
+    {
+      "word": "Faemina ab omnibus officiis civilibus vel publicis remotae sunt.",
+      "meaning": " Women are excluded from all civil and public charges or offices"
+    },
+    {
+      "word": "Falsa demonstratio non nocet.",
+      "meaning": " A false or mistaken description does not vitiate."
+    },
+    {
+      "word": "Falsa ortho graphia, sive falsa grammatica, non vitiat concessionem.",
+      "meaning": " False spelling or false grammar do not vitiate a grant."
+    },
+    {
+      "word": "Falsus in uno, falsus in omnibus.",
+      "meaning": " False in one thing, false in everything."
+    },
+    {
+      "word": "Fatetur facinus qui judicium fugit",
+      "meaning": " He who flees judgment confesses his guilt"
+    },
+    {
+      "word": "Felix qui potuit rerum cognoscere causas",
+      "meaning": " Happy is he who has been able to understand the causes of things."
+    },
+    {
+      "word": "Festinatio justitiae est noverca infortunii.",
+      "meaning": " The hurrying of justice is the stepmother of misfortune."
+    },
+    {
+      "word": "Fiat justitia ruat caelum.",
+      "meaning": " Let justice be done, though the heavens hsould fall."
+    },
+    {
+      "word": "Fiat prout, fieri consuerit, nil temere novandum.",
+      "meaning": " Let it be done as formerly, let nothing be done rashly."
+    },
+    {
+      "word": "Fictio cedit veritati; fictio juris non est, ubi veritas",
+      "meaning": " Fiction yields to truth. Where truth is, fiction of law does not exist."
+    },
+    {
+      "word": "Fictio est contra veritatem, sed pro veritate habetur.",
+      "meaning": " Fiction is aginst the truth, but it is to have truth."
+    },
+    {
+      "word": "Fides servanda est",
+      "meaning": " Good faith is to be preserved."
+    },
+    {
+      "word": "Fieri facias (abreviated fi. fa.)",
+      "meaning": " That you cause to be made."
+    },
+    {
+      "word": "Filiatio non potest probari",
+      "meaning": " Filiation cannot be proved."
+    },
+    {
+      "word": "Finis finem litibus imponit.",
+      "meaning": " The end puts an end to litigation."
+    },
+    {
+      "word": "Finis rei attendendus est.",
+      "meaning": " The end of a thing is to be attended to."
+    },
+    {
+      "word": "Finis unius diei est principium alterius.",
+      "meaning": " The end of one day is the beginning of another."
+    },
+    {
+      "word": "Firmior et potentior est operatio legis quam dispositio hominis.",
+      "meaning": " The disposition of law is firmer and more powerful than the will of man."
+    },
+    {
+      "word": "Flumina et protus publica sunt, ideoque jus piscandi omnibus commune est.",
+      "meaning": " Rivers and ports are public, therefore the right of fishing there is common to all."
+    },
+    {
+      "word": "Forma non observata, inferiur adnullatio actus.",
+      "meaning": " When form is not observed a nullity of the act is inferred."
+    },
+    {
+      "word": "Forstellarius est pauperum depressor, et totius communitatis et patriae publicus inimicus.",
+      "meaning": " A forestaller is an oppressor of the poor, and a public enemy to the whole community and the country."
+    },
+    {
+      "word": "Fortior est custodia legis quam hominis.",
+      "meaning": " The custody of the law is stronger than that of man."
+    },
+    {
+      "word": "Fortior et potentior est dispositio legis quam hominis.",
+      "meaning": " The disposition of the law is stronger and more powerful than that of man."
+    },
+    {
+      "word": "Fractionem diei non recipit lex",
+      "meaning": " The law does not regard a fraction of a day."
+    },
+    {
+      "word": "Fraus est celare fraudem.",
+      "meaning": " It is a fraud to conceal a fraud."
+    },
+    {
+      "word": "Fraus est odiosa et non praesumenda.",
+      "meaning": " Fraud is odious and not to be presumed."
+    },
+    {
+      "word": "Fraus et dolus nemini patrocianari debent.",
+      "meaning": " Fraud and deceit should excuse no man."
+    },
+    {
+      "word": "Fraus latet in generalibus.",
+      "meaning": " Fraud lies hid in general expressions."
+    },
+    {
+      "word": "Fraus meretur fraudem.",
+      "meaning": " Fraud deserves fraud."
+    },
+    {
+      "word": "fructus",
+      "meaning": " fruit"
+    },
+    {
+      "word": "Fructus naturales",
+      "meaning": " Vegetation which grows naturally without cultivation."
+    },
+    {
+      "word": "Fructus pendentes pars fundi videntur.",
+      "meaning": " Hanging fruits make part of the land."
+    },
+    {
+      "word": "Fructus perceptos villae non esse constat.",
+      "meaning": " Gathered fruits do not make a part of the house."
+    },
+    {
+      "word": "Frustr est potentia quae numcquam venit in actum.",
+      "meaning": " The power which never comes to be exercised is vain."
+    },
+    {
+      "word": "Frustr feruntur legis nisi subditis et obedientibus.",
+      "meaning": " Laws are made to no purpose unless for those who are subject and obedient."
+    },
+    {
+      "word": "Frustr legis auxilium quaerit qui in legem committit.",
+      "meaning": " Vainly does he who offends against the law, seek the help of the law."
+    },
+    {
+      "word": "Frustr petis quoa statim alteri reddere cogeris.",
+      "meaning": " Vainly you ask that which you will immediately be compelled to restore to another."
+    },
+    {
+      "word": "Frustr probatur quod probatum non relevat.",
+      "meaning": " It is vain to prove that which if proved would not aid the matter in question."
+    },
+    {
+      "word": "Frustra probatur quod probatum non relevat",
+      "meaning": " That is proved in vain which when proved is not relevant."
+    },
+    {
+      "word": "Furiosus absentis loco est.",
+      "meaning": " The insane is compared to the absent."
+    },
+    {
+      "word": "Furiosus solo furore punitur.",
+      "meaning": " A madman is punished by his madness alone."
+    },
+    {
+      "word": "Furor contrahi matrimonium non sinit, quia consensus opus est",
+      "meaning": " Insanity prevents marriage from being contracted because consent is needed."
+    },
+    {
+      "word": "Furtum non est ubi initium habet detentionis per dominum rei.",
+      "meaning": " It is not theft where the commencement of the detention arises through the owner of the thing."
+    }
+  ],
+  "g": [
+    {
+      "word": "Generale dictum generaliter est interpretandum.",
+      "meaning": " A general expression is to be construed generally."
+    },
+    {
+      "word": "Generale nihil certum implicat.",
+      "meaning": " A general expression implies nothing certain."
+    },
+    {
+      "word": "Generale tantum valet in generalibus, quanium singulare singulis.",
+      "meaning": " What is general prevails or is worth as much among things general, as what is particular among things particular."
+    },
+    {
+      "word": "Generalia praecedunt, specialia sequuntur",
+      "meaning": " Things general precede, things special follow."
+    },
+    {
+      "word": "Generalia specialibus non derogant",
+      "meaning": " Things general do not derogate from things special."
+    },
+    {
+      "word": "Generalia sunt praeponenda singularibus.",
+      "meaning": " General things are to be put before particular things."
+    },
+    {
+      "word": "Generalia verba sunt generaliter intelligenda.",
+      "meaning": " General words are understood in a general sense."
+    },
+    {
+      "word": "Generalis clausula non porrigitur ad ea quae antea specialiter sunt comprehensa.",
+      "meaning": " A general clause does not extend to those things which are previously provided for specially."
+    },
+    {
+      "word": "Generalis regula generaliter est intelligenda",
+      "meaning": " A general rule is to be generally understood."
+    },
+    {
+      "word": "Gravius est divinam quam temporalem laedere majestatem",
+      "meaning": " It is more serious to hurt divine than temporal majesty."
+    }
+  ],
+  "h": [
+    {
+      "word": "Habeas corpus",
+      "meaning": " That you have the body."
+    },
+    {
+      "word": "Habemus optimum testem confitentem reum",
+      "meaning": " We have the best witness, a confessing defendant."
+    },
+    {
+      "word": "Haeredem Deus facit, non homo.",
+      "meaning": " God and not man, make the heir."
+    },
+    {
+      "word": "Haeres est alter ispe, et filius est pars patris.",
+      "meaning": " An heir is another self, and a son is a part of the father."
+    },
+    {
+      "word": "Haeres est aut jure proprietatis aut jure representationis.",
+      "meaning": " An heir is either by right of property or right of representation."
+    },
+    {
+      "word": "Haeres est eadem persona cum antecessore.",
+      "meaning": " The heir is the same person with the ancestor."
+    },
+    {
+      "word": "Haeres est nomen juris, filius est nomen naturae",
+      "meaning": " Heir is a term of law, son, one of nature."
+    },
+    {
+      "word": "Haeres haeredis mei est meus haeres.",
+      "meaning": " The heir of my heir is my heir."
+    },
+    {
+      "word": "Haeres legitimus est quem nuptiae demonstrant.",
+      "meaning": " He is the lawful heir whom the marriage demonstrates."
+    },
+    {
+      "word": "Haeris est nomen juris, filius est nomen naturae.",
+      "meaning": " Heir is a term of law, son one of nature."
+    },
+    {
+      "word": "hinc inde",
+      "meaning": " on the one hand and on the other"
+    },
+    {
+      "word": "Hominum caus jus constitutum est.",
+      "meaning": " Law is established for the benefit of man."
+    },
+    {
+      "word": "Homo vocabulum est naturae; persona juris civilis",
+      "meaning": " Man is a term of nature, person of the civil law."
+    }
+  ],
+  "i": [
+    {
+      "word": "ibid",
+      "meaning": " at the same place (used in footnotes for work already cited previously)"
+    },
+    {
+      "word": "Id certum est quod certum reddi potest.",
+      "meaning": " That is certain which may be rendered certain."
+    },
+    {
+      "word": "Id est (i.e)",
+      "meaning": " That is."
+    },
+    {
+      "word": "Id perfectum est quod ex omnibus suis partibus constat.",
+      "meaning": " That is perfect which is complete in all its parts."
+    },
+    {
+      "word": "Id possumus quod de jure possumus.",
+      "meaning": " We may do what is allowed by law."
+    },
+    {
+      "word": "Id quod commune est, nostrum esse dicitur",
+      "meaning": " That which is common is said to be ours."
+    },
+    {
+      "word": "Id quod nostrum est, sine facto nostro ad alium transferi non potest.",
+      "meaning": " What belongs to us cannot be transferred to another without our consent."
+    },
+    {
+      "word": "Idem",
+      "meaning": " The same person or thing."
+    },
+    {
+      "word": "Idem agens et patiens esse non potest.",
+      "meaning": " One cannot be agent and patient, in the same matter."
+    },
+    {
+      "word": "Idem est facere, et nolle prohibere cum possis.",
+      "meaning": " It is the same thing to do a thing as not to prohibit it when in your power."
+    },
+    {
+      "word": "Idem est nihil dicere et insufficienter dicere.",
+      "meaning": " It is the same thing to say nothing and not to say it sufficiently."
+    },
+    {
+      "word": "Idem est non probari et non esse; non deficit jus, sed probatio.",
+      "meaning": " What does not appear and what is not is the same; it is not the defect of the law, but the want of proof."
+    },
+    {
+      "word": "Idem est scire aut scire debet aut potuisse.",
+      "meaning": " To be able to know is the same as to know. This maxim is applied to the duty of every one to know the law."
+    },
+    {
+      "word": "Idem nihil dicere et insufficienter dicere est",
+      "meaning": " It is the same to say nothing as not to say enough."
+    },
+    {
+      "word": "Idem non esse et non apparet.",
+      "meaning": " It is the same thing not to exist and not to appear."
+    },
+    {
+      "word": "Idem semper antecedenti proximo refertur.",
+      "meaning": " The same is always referred to its next antecedent."
+    },
+    {
+      "word": "Identitas vera colligitur ex multitudine signorum.",
+      "meaning": " True identity is collected from a number of signs."
+    },
+    {
+      "word": "Ignorantia excusatur, non juris sed facti.",
+      "meaning": " Ignorance of fact may excuse, but not ignorance of law."
+    },
+    {
+      "word": "Ignorantia facti excusat, ignorantia juris non excusat.",
+      "meaning": " Ignorance of facts excuses, ignorance of law does not excuse."
+    },
+    {
+      "word": "Ignorantia judicis est calamitas innocentis.",
+      "meaning": " The ignorance of the judge is the misforture of the innocent."
+    },
+    {
+      "word": "Ignorantia legis neminem excusat.",
+      "meaning": " Ignorance of fact may excuse, but not ignorance of law."
+    },
+    {
+      "word": "Ignorantia terminis ignoratur et ars.",
+      "meaning": " An ignorance of terms is to be ignorant of the art."
+    },
+    {
+      "word": "Illud quod alias licitum non est necessitas facit licitum, et necessitas inducit privilegium quod ju",
+      "meaning": " That which is not otherwise permitted, necessity allows, and necessity makes a privilege which supersedes the law."
+    },
+    {
+      "word": "Imperitia culpae annumeratur.",
+      "meaning": " Ignorance, or want of skill, is considered a negligence, for which one who professes skill is responsible."
+    },
+    {
+      "word": "Imperium in imperio",
+      "meaning": " A sovereignty within a sovereignty."
+    },
+    {
+      "word": "Impersonalitas non concludit nec ligat.",
+      "meaning": " Impersonality neither concludes nor binds."
+    },
+    {
+      "word": "Impotentia excusat legem.",
+      "meaning": " Impossibility excuses the law."
+    },
+    {
+      "word": "Impunitas continuum affectum tribuit delinquenti.",
+      "meaning": " Impunity offers a continual bait to a delinquent."
+    },
+    {
+      "word": "Impunitas semper ad deteriora invitat",
+      "meaning": " Impunity always leads to greater crimes."
+    },
+    {
+      "word": "In aedificiis lapis male positus non est removendus.",
+      "meaning": " A stone badly placed in a building is not to be removed."
+    },
+    {
+      "word": "In aequali jure melior est conditio possidentis.",
+      "meaning": " When the parties have equal rights, the condition of the possessor is the better."
+    },
+    {
+      "word": "In alta proditione nullus potest esse acessorius; sed principalis solum modo",
+      "meaning": " In high treason no one can be an accessory; but a principal only."
+    },
+    {
+      "word": "In alternativis electio est debitoris.",
+      "meaning": " In alternatives there is an election of the debtor."
+    },
+    {
+      "word": "In Anglia non est interregnum",
+      "meaning": " In England there is no interregnum."
+    },
+    {
+      "word": "In camera",
+      "meaning": " In private"
+    },
+    {
+      "word": "In casu extremae necessitatis omnia sunt communia",
+      "meaning": " In a case of extreme necessity everything is common."
+    },
+    {
+      "word": "In civile est nisi tota sententia inspectu, de aliqua parte judicare.",
+      "meaning": " It is improper to pass an opinion on any part of a sentence, without examining the whole."
+    },
+    {
+      "word": "In commodo haec pactio, ne dolus praestetur, rata non est.",
+      "meaning": " If in a contract for a loan there is inserted a clause that the borrower shall not be answerable for fraud, such clause is void"
+    },
+    {
+      "word": "In conjunctivis oportet utramque partem esse veram.",
+      "meaning": " In conjunctives each part ought to be true."
+    },
+    {
+      "word": "In consimili casu consilile debet esse remedium.",
+      "meaning": " In similar cases the remedy should be similar."
+    },
+    {
+      "word": "In contractibus, benigna; in testamentis, benignior; in restitutionibus, benignissima interpretatio",
+      "meaning": " In contracts, the interpretation or construction should be liberal; in wills, more liberal; in restitutions, more liberal."
+    },
+    {
+      "word": "In conventibus contrahensium voluntatem potius quam verba spectari placuit.",
+      "meaning": " In the agreements of the contracting parties, the rule is to regard the intention rather than the words."
+    },
+    {
+      "word": "In criminalibus probationes debent esse luce clariores",
+      "meaning": " In criminal cases the proofs ought to be cleared than the light."
+    },
+    {
+      "word": "In criminalibus sufficit generalis malitia intentionis cum facto paris gradus.",
+      "meaning": " In criminal cases a general intention is sufficient, when there is an act of equal or corresponding degree"
+    },
+    {
+      "word": "In criminalibus, probationes bedent esse luce clariores.",
+      "meaning": " In criminal cases, the proofs ought to be clearer than the light."
+    },
+    {
+      "word": "In curia domini regis, ipse in propria persona jura discernit",
+      "meaning": " In the King s Court, the King himself in his own person dispenses justice."
+    },
+    {
+      "word": "In delicto",
+      "meaning": " At fault."
+    },
+    {
+      "word": "In disjunctivis sufficit alteram partem esse veram.",
+      "meaning": " In disjunctives, it is sufficient if either part be true."
+    },
+    {
+      "word": "In dubiis magis dignum est accipiendum.",
+      "meaning": " In doubtful cases the more worthy is to be taken."
+    },
+    {
+      "word": "In dubiis non praesumitur pro testamento.",
+      "meaning": " In doubtful cases there is no presumption in favor of the will."
+    },
+    {
+      "word": "in dubio",
+      "meaning": " on a doubtful point"
+    },
+    {
+      "word": "In dubio haec legis constructio quam verba ostendunt.",
+      "meaning": " In a doubtful case, that is the construction of the law which the words indicate."
+    },
+    {
+      "word": "In dubio pars melior est sequenda.",
+      "meaning": " In doubt, the gentler course is to be followed."
+    },
+    {
+      "word": "In dubio, sequendum quod tutius est.",
+      "meaning": " In doubt, the safer course is to be adopted."
+    },
+    {
+      "word": "In eo quod plus sit, semper inest et minus.",
+      "meaning": " The less is included in the greater."
+    },
+    {
+      "word": "In esse",
+      "meaning": " In existence."
+    },
+    {
+      "word": "In extenso",
+      "meaning": " At full length."
+    },
+    {
+      "word": "In facto quod se habet ad bonum et malum magis de bono quam de malo lex intendit.",
+      "meaning": " In a deed which may be considered good or bad, the law looks more to the good than to the bad"
+    },
+    {
+      "word": "In favorabilibus magis attenditur quod prodest quam quod nocet.",
+      "meaning": " In things favored what does good is more regarded than what does harm."
+    },
+    {
+      "word": "In fictione juris, semper subsistit aequitas.",
+      "meaning": " In a fiction of law, equity always subsists."
+    },
+    {
+      "word": "In fictione legis aequitas existit",
+      "meaning": " A legal fiction is consistent with equity."
+    },
+    {
+      "word": "In foro conscientiae",
+      "meaning": " In the forum of conscience."
+    },
+    {
+      "word": "In futoro",
+      "meaning": " In the future."
+    },
+    {
+      "word": "in hoc statu",
+      "meaning": " in this state of matters; at this stage"
+    },
+    {
+      "word": "In judiciis minori aetati sucuritur.",
+      "meaning": " In judicial proceedings, infancy is aided or favored."
+    },
+    {
+      "word": "In judicio non creditur nisi juratis.",
+      "meaning": " In law none is credited unless he is sworn. All the facts must when established, by witnesses, be under oath or affirmation."
+    },
+    {
+      "word": "In limine",
+      "meaning": " At the outset, on the threshold"
+    },
+    {
+      "word": "In loco parentis",
+      "meaning": " In place of the parent"
+    },
+    {
+      "word": "In majore summ continetur minor.",
+      "meaning": " In the greater sum is contained the less."
+    },
+    {
+      "word": "In maleficio ratihabitio mandato comparatur.",
+      "meaning": " He who ratifies a bad action is considered as having ordered it."
+    },
+    {
+      "word": "In maxim potenti minima licentia.",
+      "meaning": " IN the greater power is included the smaller license."
+    },
+    {
+      "word": "In mercibus illicitis non sit commercium.",
+      "meaning": " NO commerce should be in illicit goods."
+    },
+    {
+      "word": "in modo probationis",
+      "meaning": " in the way of proof"
+    },
+    {
+      "word": "In mortua manu",
+      "meaning": " In a dead hand."
+    },
+    {
+      "word": "In novo casu novum remedium apponendum est",
+      "meaning": " In a new case a new remedy is to be applied."
+    },
+    {
+      "word": "In obscuris, quod minimum est, sequitur.",
+      "meaning": " In obscure cases, the milder course ought to be pursued."
+    },
+    {
+      "word": "In odium spoliatoris omnia praesumuntur.",
+      "meaning": " All things are presumed in odium of a despoiler."
+    },
+    {
+      "word": "In omni re nascitur res quae ipsam rem exterminat",
+      "meaning": " In everything is born that which destroys the thing itself."
+    },
+    {
+      "word": "In omnibus",
+      "meaning": " In every respect."
+    },
+    {
+      "word": "In omnibus contractibus, sive nominatis sive innominatis, permutatio continetur.",
+      "meaning": " In every contract, whether nominate or innominate, there is implied a consideration."
+    },
+    {
+      "word": "In omnibus obligationibus, in quibus dies non ponitar, praesenti die debutur.",
+      "meaning": " In all obligations when no time is fixed for the payment, the thing is due immediately"
+    },
+    {
+      "word": "In omnibus quidem, maxim tamen in jure, aequitas spectanda sit.",
+      "meaning": " In all affairs, and principally in those which concern the administration of justice, the rules of equity ought to be followed"
+    },
+    {
+      "word": "In pari causa possessor potior est.",
+      "meaning": " In an equal case, better is the condition of the possessor."
+    },
+    {
+      "word": "In pari causa possessor potior haberi debet.",
+      "meaning": " When two parties have equal rights, the advantage is always in favor of the possessor."
+    },
+    {
+      "word": "In pari delicto melior est conditio possidentis.",
+      "meaning": " When the parties are equally in the wrong, the condition of the possessor is better."
+    },
+    {
+      "word": "In pari delicto potior est conditio possidentis",
+      "meaning": " When the parties are equally in the wrong the condition of the possessor is better."
+    },
+    {
+      "word": "In personam",
+      "meaning": " Against the person."
+    },
+    {
+      "word": "In pleno",
+      "meaning": " In full."
+    },
+    {
+      "word": "In praesentia majoris potestatis, minor potestas cessat.",
+      "meaning": " In the presence of the superior power, the minor power ceases."
+    },
+    {
+      "word": "In propri cuus nemo judex.",
+      "meaning": " No one can be judge in his own cuase."
+    },
+    {
+      "word": "in rem suam",
+      "meaning": " to one's own advantage"
+    },
+    {
+      "word": "In repropri iniquum admodum est alicui licentiam tribuere sententiae.",
+      "meaning": " It is expremely unjust that any one should be judge in his own cause."
+    },
+    {
+      "word": "In restitutionem, non in paenam haeres succedit.",
+      "meaning": " The heir succeeds to the restitution not the penalty."
+    },
+    {
+      "word": "In restitutionibus benignissima interpretatio facienda est.",
+      "meaning": " The most favorable construction is made in restitutions."
+    },
+    {
+      "word": "In situ",
+      "meaning": " In its place."
+    },
+    {
+      "word": "in solidum",
+      "meaning": " for the whole sum"
+    },
+    {
+      "word": "In suo quisque negotio hebetior est quam in alieno.",
+      "meaning": " Every one is more dull in his own business than in that of another."
+    },
+    {
+      "word": "In terrorem",
+      "meaning": " As a warning or deterrent."
+    },
+    {
+      "word": "In testamentis plenius testatoris intentionem scrutamur",
+      "meaning": " In wills we seek diligently the intention of the testator."
+    },
+    {
+      "word": "in toto",
+      "meaning": " in total, in full"
+    },
+    {
+      "word": "In toto et pars continetur.",
+      "meaning": " A part is included in the whole."
+    },
+    {
+      "word": "In verbis, non verba sed res et ratio quaerenda est",
+      "meaning": " In words, not words, but the thing and the meaning are to be inquired into."
+    },
+    {
+      "word": "Incerta pro nullius habentur.",
+      "meaning": " Things uncertain are held for nothing"
+    },
+    {
+      "word": "Incerta quantitas vitiat acium.",
+      "meaning": " An uncertain quantity vitiates the act."
+    },
+    {
+      "word": "Inclusio unius est exclusio alterius.",
+      "meaning": " The inclusion of onoe is the exclusion of another."
+    },
+    {
+      "word": "Incommodum non solvit argumentum.",
+      "meaning": " An inconvenience does not solve an argument."
+    },
+    {
+      "word": "Indefinitum aequipolet universali.",
+      "meaning": " The undefined is equivalent tothe whole."
+    },
+    {
+      "word": "Indefinitum supplet locum universalis.",
+      "meaning": " The undefined supplies the place of the whole"
+    },
+    {
+      "word": "Independenter se habet assecuratio a viaggio vanis.",
+      "meaning": " The voyage insured is an independent or distinct thing from the voyage of the ship."
+    },
+    {
+      "word": "Index animi sermo.",
+      "meaning": " Speech is the index of the mind."
+    },
+    {
+      "word": "Indicia",
+      "meaning": " Marks, signs."
+    },
+    {
+      "word": "Inesse potest donationi, modus, conditio sive causa; ut modus est; si conditio; quia causa.",
+      "meaning": " In a gift there may be manner, condition and cause; as, (ut), introduces a manner; if, (si), a condition; because, (quia), a cause"
+    },
+    {
+      "word": "Infinitum in jure reprobatur.",
+      "meaning": " That which is infinite or endless is reprehensible in law."
+    },
+    {
+      "word": "Iniquum est alios permittere, alios inhibere mercaturam.",
+      "meaning": " It is inequitable to permit some to trade, and to prohibit others."
+    },
+    {
+      "word": "Iniquum est aliquem rei sui esse judicem.",
+      "meaning": " It is against equity for any one to be judge in his own cause."
+    },
+    {
+      "word": "Iniquum est ingenuis hominibus non esse liberam rerum suarum alienationem.",
+      "meaning": " It is against equity to deprive freeman of the free disposal of their own property."
+    },
+    {
+      "word": "injuria",
+      "meaning": " wrongful act; injustice (also iniuria)"
+    },
+    {
+      "word": "Injuria fit ei cui convicium dictum est, vel de eo factum carmen famosum.",
+      "meaning": " It is a slander of him who a reproachful thing is said, or concerning whom an infamous song is made."
+    },
+    {
+      "word": "Injuria non excusat injuriam",
+      "meaning": " A wrong does not excuse a wrong."
+    },
+    {
+      "word": "Injuria non praesumitur.",
+      "meaning": " A wrong is not presumed."
+    },
+    {
+      "word": "Injuria propria non cadet in beneficium facientis.",
+      "meaning": " One's own wrong shall not benefit the person doing it."
+    },
+    {
+      "word": "Intentio caeca, mala.",
+      "meaning": " A hidden intention is bad."
+    },
+    {
+      "word": "Intentio inservire debet legibus, non leges intentioni.",
+      "meaning": " Intentions ought to be subservient to the laws, not the laws to intentions."
+    },
+    {
+      "word": "Intentio mea imponit nomen operi meo.",
+      "meaning": " My intent gives a name to my act."
+    },
+    {
+      "word": "Inter alia",
+      "meaning": " Amongst other things."
+    },
+    {
+      "word": "inter amicos",
+      "meaning": " between friends"
+    },
+    {
+      "word": "inter vivos",
+      "meaning": " between living persons"
+    },
+    {
+      "word": "Interest reipublicae ne maleficia remaneant impunita.",
+      "meaning": " It concerns the commonwealth that crimes do not remain unpunished."
+    },
+    {
+      "word": "Interest reipublicae quod homines conserventur. Interest reipublicae ut qualibet re su bene utatur.",
+      "meaning": " It concerns the commonwealth that we be preserved. it concerns the commonwealth that every one use his property properly."
+    },
+    {
+      "word": "Interest reipublicae res judicatas non rescindi.",
+      "meaning": " It concerns the common wealth that things adjudged be not rescinded."
+    },
+    {
+      "word": "Interest reipublicae suprema hominum testamenta rata haberi.",
+      "meaning": " It concerns the commonwealth that men's last wills be sustained."
+    },
+    {
+      "word": "Interest reipublicae ut carceres sint in tuto.",
+      "meaning": " It concerns the commonwealth that prisons be secure."
+    },
+    {
+      "word": "Interest reipublicae ut quilibet re sua bene utatur",
+      "meaning": " It is in the interest of the State that every one use properly his own property."
+    },
+    {
+      "word": "Interest reipublicae ut sit finis litium.",
+      "meaning": " In concerns the commonwealth that there be an end of law suits."
+    },
+    {
+      "word": "Interest reipublicase ut sit finis litium",
+      "meaning": " It is in the interest of the State that there be an end to litigation."
+    },
+    {
+      "word": "Interim",
+      "meaning": " Temporary, in the meanwhile."
+    },
+    {
+      "word": "Interpretare et concordare leges legibus est optimus interpretandi modus.",
+      "meaning": " To interpret and reconcile laws so that they harmonize is the best mode of construction"
+    },
+    {
+      "word": "Interpretatio fienda est ut res magis valeat quam pereat.",
+      "meaning": " That construction is to be made so that the subject may have an effect rather than none."
+    },
+    {
+      "word": "Interpretatio talis in ambiguis semper fienda, ut evitetur inconveniens et absurdum.",
+      "meaning": " In ambiguous things, such a construction is to be made, that what is inconvenient and absurd is to be avoided"
+    },
+    {
+      "word": "Interruptio multiplex non tollit praescriptionem semel obtentam.",
+      "meaning": " Repeated interruptions do not defeat a prescription once obtained."
+    },
+    {
+      "word": "Inutilis labor, et sine fructu, non est effectus legis.",
+      "meaning": " Useless labor and without fruit, is not the effect of law."
+    },
+    {
+      "word": "Invito beneficium non datur.",
+      "meaning": " No one is obligedto accept a benefit against his consent.But if he does not siddent he will be considered as assenting."
+    },
+    {
+      "word": "Ipsae legis cupiunt ut jure regantur.",
+      "meaning": " The laws themselves require that they should be governed by right."
+    },
+    {
+      "word": "Ipsissima verba",
+      "meaning": " The very words of a speaker"
+    },
+    {
+      "word": "Ipso facto",
+      "meaning": " By that very fact."
+    },
+    {
+      "word": "Ira furor brevis est",
+      "meaning": " Anger is brief insanity."
+    },
+    {
+      "word": "Iter arma leges silent",
+      "meaning": " In war the laws are silent."
+    },
+    {
+      "word": "ius",
+      "meaning": " right recognised by law (also jus)"
+    },
+    {
+      "word": "ius ad rem",
+      "meaning": " right to a thing (personal right) (jus ad rem)"
+    },
+    {
+      "word": "ius in personam",
+      "meaning": " personal right (also jus in personam)"
+    },
+    {
+      "word": "ius in rem",
+      "meaning": " right in a thing (real right) (also jus in rem)"
+    },
+    {
+      "word": "ius naturale",
+      "meaning": " natural justice (alsojus naturale)"
+    },
+    {
+      "word": "ius quaesitum tertio",
+      "meaning": " right acquired by a third party (in a contract between others) (also jus quaesitum tertio)"
+    }
+  ],
+  "j": [
+    {
+      "word": "Judex aeuitatem semper spectare debet.",
+      "meaning": " A judge ough always to regard equity."
+    },
+    {
+      "word": "Judex ante occulos aequitatem semper habere debet.",
+      "meaning": " A judge ought always to have equity before his eyes."
+    },
+    {
+      "word": "Judex bonus nihil ex arbitrio suo faciat, nec propositione domesticae voluntatis, sed juxta legis et",
+      "meaning": " A good judge should do nothing from his own judgment, or from the dictates of his private wishes; but he should pronounce according to law and justice."
+    },
+    {
+      "word": "Judex damnatur cum nocens absolvitur.",
+      "meaning": " The judge is condemned when the guilty are acquitted."
+    },
+    {
+      "word": "Judex debet judicare secundum allegata et probata.",
+      "meaning": " The judge ought to decide according to the allegation and the proof."
+    },
+    {
+      "word": "Judex est lex loquens.",
+      "meaning": " The judge is the speaking law."
+    },
+    {
+      "word": "Judex non reddit plus quam quod petens ipse requirit",
+      "meaning": " A judge does not give more than the plaintiff himself demands."
+    },
+    {
+      "word": "Judici officium suum excedenti non paretur.",
+      "meaning": " To a judge who exceeds his office or jurisdiction no obedience is due."
+    },
+    {
+      "word": "Judici satis paena est quod Deum habet ultorem.",
+      "meaning": " It is punishment enough for a judge that he is responsible to God."
+    },
+    {
+      "word": "Judicia in deliberationibus crebro naturescunt, in accelerato processu nunquam.",
+      "meaning": " Judgments frequently become matured by deliberation, never by hurried process"
+    },
+    {
+      "word": "Judicia posteriora sunt in lege fortiora.",
+      "meaning": " The latter decisions are stronger in law."
+    },
+    {
+      "word": "Judicia sunt tanquam juris dicta, et pro veritate accipiuntur.",
+      "meaning": " Judgments are, as it were, the dicta or sayings of the law, and are received as truth."
+    },
+    {
+      "word": "Judiciis posterioribus fides est adhibenda.",
+      "meaning": " Faith or credit is to be given to the last decisions."
+    },
+    {
+      "word": "Judicis est in pronuntiando sequi regulam, exceptione non probat .",
+      "meaning": " The judge in his decision ought to follow the rule, when the exception is not made apparent."
+    },
+    {
+      "word": "Judicium non debet esse illusorium, suum effectum habere debet.",
+      "meaning": " A judgment ought not to be illusory, it ought to have its consequence."
+    },
+    {
+      "word": "Judicium non suo judice datum nullius est momenti.",
+      "meaning": " A judgment given by an improper judge is of no moment."
+    },
+    {
+      "word": "Judicium redditur in invitum, in praesumptione legis.",
+      "meaning": " In presumption of law, a judgment is given against inclination."
+    },
+    {
+      "word": "Judicium semper pro veritate accipitur.",
+      "meaning": " A judgment is always taken for truth."
+    },
+    {
+      "word": "Juduces non tenentur exprimere causam sententiae suae",
+      "meaning": " Judges are not bound to explain the reason of their judgment."
+    },
+    {
+      "word": "Jura eodem modo distruuntur quo constituuntur.",
+      "meaning": " Laws are abrogated or repealed by the same means by which they are made."
+    },
+    {
+      "word": "Jura naturae sunt immutabilia.",
+      "meaning": " The laws of nature are unchangeable."
+    },
+    {
+      "word": "Jura publica anteferenda privatis juribus",
+      "meaning": " Public rights are to be preferred to private rights."
+    },
+    {
+      "word": "Jura sanguinis nullo jure civili dirimi possunt.",
+      "meaning": " The right of blood and kindred cannot be destroyed by any civil law."
+    },
+    {
+      "word": "Juramentum est indivisibile, et non est admittendum in parte verum et in parte falsam.",
+      "meaning": " An oath is indivisible, it cannot be in part true and in part false."
+    },
+    {
+      "word": "Jurato creditur in judicio.",
+      "meaning": " He who makes oath is to be believed in judgment."
+    },
+    {
+      "word": "Juratores sunt judices facti.",
+      "meaning": " Juries are the judges of the facts."
+    },
+    {
+      "word": "Juris effectus in executione consistit.",
+      "meaning": " The effect of a law consists in the execution."
+    },
+    {
+      "word": "Jus",
+      "meaning": " A right that is recognised in law."
+    },
+    {
+      "word": "Jus accrescendi inter mercatores locum non habet, pro beneficio commercii.",
+      "meaning": " The right of survivorship does not exist among merchants for the benefit of commerce"
+    },
+    {
+      "word": "Jus accrescendi praefertur oneribus.",
+      "meaning": " The right of survivorship is preferred to incumbrances."
+    },
+    {
+      "word": "Jus accrescendi praefertur ultimae voluntati.",
+      "meaning": " The right of survivorship is preferred to a last will."
+    },
+    {
+      "word": "jus ad rem",
+      "meaning": " right to a thing (personal right) (ius ad rem)"
+    },
+    {
+      "word": "Jus ad rem; jus in re",
+      "meaning": " A right to a thing; a right in a thing."
+    },
+    {
+      "word": "Jus descendit et non terra.",
+      "meaning": " A right descends, not the land."
+    },
+    {
+      "word": "Jus dicere, non jus dare",
+      "meaning": " To declare the law, not to make the law"
+    },
+    {
+      "word": "Jus est ars boni et aequi.",
+      "meaning": " Law is the science of what is good and evil."
+    },
+    {
+      "word": "Jus est norma recti; et quicquid est contra normam recti est injuria",
+      "meaning": " The law is a rule of right; and whatever is contrary to a rule of right is an injury."
+    },
+    {
+      "word": "Jus et fraudem numquam cohabitant.",
+      "meaning": " Right and fraud never go together."
+    },
+    {
+      "word": "Jus ex injuria non oritur.",
+      "meaning": " A right cannot arise from a wrong."
+    },
+    {
+      "word": "jus in personam",
+      "meaning": " personal right (also ius in personam)"
+    },
+    {
+      "word": "jus in rem",
+      "meaning": " right in a thing (real right) (also ius in rem)"
+    },
+    {
+      "word": "Jus naturale",
+      "meaning": " Natural justice."
+    },
+    {
+      "word": "Jus naturale est quod apud omnes homines eandem habet potentiam",
+      "meaning": " Natural right is that which has the same force among all men."
+    },
+    {
+      "word": "Jus publicum privatorum pactis mutari non potest.",
+      "meaning": " A public right cannot be changed by private agreement."
+    },
+    {
+      "word": "Jus respicit aequitatem.",
+      "meaning": " Law regards equity."
+    },
+    {
+      "word": "Jus scriptum aut non scriptum",
+      "meaning": " The written law or the unwritten law."
+    },
+    {
+      "word": "Jus superveniens auctori accressit successors.",
+      "meaning": " A right geowing to a possessor accrues to a successor."
+    },
+    {
+      "word": "Jusjurandum inter alios factum nec nocere nec prodesse debet",
+      "meaning": " An oath made between third parties ought neither to hurt nor profit."
+    },
+    {
+      "word": "Justicia est virtus excellens et Altissimo complacens.",
+      "meaning": " Justice is an excellent virtue and pleasing to the Most high."
+    },
+    {
+      "word": "Justitia est duplec; severe puniens et vere praeveniens",
+      "meaning": " Justice is two-fold; severely punishing and in reality prohibiting (offences)."
+    },
+    {
+      "word": "Justitia firmatur solium",
+      "meaning": " The throne is established by justice."
+    },
+    {
+      "word": "Justitia nemini neganda est",
+      "meaning": " Justice is to be denied to no one"
+    },
+    {
+      "word": "Justitia non est neganda, non differenda.",
+      "meaning": " Justice is not to be denied nor delayed."
+    },
+    {
+      "word": "Justitia non novit patrem nec matrem, solum veritatem spectat justitia.",
+      "meaning": " Justice knows neither father nor mother, justice looks to truth alone."
+    }
+  ],
+  "k": [],
+  "l": [
+    {
+      "word": "La conscience est la plus changeante des regles.",
+      "meaning": " Conscience is the most changeable of rules."
+    },
+    {
+      "word": "labes realis",
+      "meaning": " an inherent taint or defect in a title to property (also known as vitium reale)"
+    },
+    {
+      "word": "Lata culpa dolo aequiparatur.",
+      "meaning": " Gross negligence is equal to fraud."
+    },
+    {
+      "word": "Le contrat fait la loi.",
+      "meaning": " The contract makes the law."
+    },
+    {
+      "word": "Legatos violare contra jus gentium est.",
+      "meaning": " It is contrary to the law of nations to violate the rights of ambassadors."
+    },
+    {
+      "word": "Legatum morte testatoris tantum confirmatur, sicut donatio inter vivos traditione sol .",
+      "meaning": " A legacy is confirmed by the death of the testator, in the same manner as a gift from a living person is by delivery alone"
+    },
+    {
+      "word": "Leges humanae nascuntur, vivunt et moriuntur.",
+      "meaning": " Human laws are born, live and die."
+    },
+    {
+      "word": "Leges non verbis sed regus sunt impositae.",
+      "meaning": " Laws, not words, are imposed on things."
+    },
+    {
+      "word": "Leges posteriores priores contrarias abrogant.",
+      "meaning": " Subsequent laws repeal those before enacted to the contrary."
+    },
+    {
+      "word": "Legibus sumptis desinentibus legibus naturae utendum est",
+      "meaning": " When laws imposed by the State fail, we must use the laws of nature."
+    },
+    {
+      "word": "Legibus sumptis disinentibus, lege naturae utendum est.",
+      "meaning": " When laws imposed by the state fail, we must act by the law of nature."
+    },
+    {
+      "word": "Legis constructio non facit injuriam.",
+      "meaning": " The construction of law does no wrong."
+    },
+    {
+      "word": "Legis figendi et refigendi consuetudo periculosissima est.",
+      "meaning": " The custom of fixing and refixing (making and annulling) laws is most dangerous."
+    },
+    {
+      "word": "Legis interpretatio legis vim obtinet.",
+      "meaning": " Teh construction of law obtains the force of law."
+    },
+    {
+      "word": "Legis minister non tenetur, in executione officii sui fugere aut retrocedere.",
+      "meaning": " The minister of the law is not bound, in the execution of his office, neither to fly nor retreat."
+    },
+    {
+      "word": "Legislatorum est viva vox, rebus et non verbis, legem imponere.",
+      "meaning": " The voice of legislators is a living voice, to impose laws on things and not on words."
+    },
+    {
+      "word": "Legitime imperanti parere necesse est.",
+      "meaning": " One who commands lawfully must be obeyed."
+    },
+    {
+      "word": "leonina societa",
+      "meaning": " a partnership in which one of the partners take all the gains, whereas the other bears all the losses"
+    },
+    {
+      "word": "Les fictions naissent de la loi, et non la loi des fictions.",
+      "meaning": " Fictions arise from the law, and not law from fictions."
+    },
+    {
+      "word": "lex",
+      "meaning": " law (often written law)"
+    },
+    {
+      "word": "Lex aequitate guadet; appetit perfectum; est norma recti.",
+      "meaning": " The law delights in equity; it covets perfection; it is a rule of right."
+    },
+    {
+      "word": "Lex aliquando sequitur aequitatem.",
+      "meaning": " The law sometimes follows equity."
+    },
+    {
+      "word": "Lex beneficialis rei consimili remedium praestat.",
+      "meaning": " A beneficial law affords a remedy in a similar case."
+    },
+    {
+      "word": "Lex citius tolerare vult privatum damnum quam publicum malum.",
+      "meaning": " The law would rather tolerate a private wrong than a public evil."
+    },
+    {
+      "word": "Lex dabit remedium",
+      "meaning": " The law will give a remedy"
+    },
+    {
+      "word": "Lex de futuro, judex de praeterito.",
+      "meaning": " The law provides for the future, the judge for the past."
+    },
+    {
+      "word": "Lex deficere non potest in justiti exhibenda .",
+      "meaning": " The law ought not to fail in dispensing justice."
+    },
+    {
+      "word": "Lex dilationes abhorret",
+      "meaning": " The law abhors delays."
+    },
+    {
+      "word": "Lex dilationes semper exhorret.",
+      "meaning": " The law always abhors delay."
+    },
+    {
+      "word": "Lex est ab aeterno.",
+      "meaning": " The law is from everlasting."
+    },
+    {
+      "word": "Lex est dictamen rationis.",
+      "meaning": " Law is the dictate of reason."
+    },
+    {
+      "word": "Lex est judicum tutissimus ductor",
+      "meaning": " The law is the safest guide for judges"
+    },
+    {
+      "word": "Lex est norma recti.",
+      "meaning": " Law is a rule of right."
+    },
+    {
+      "word": "Lex est ratio summa, quae jubet quae sunt utilia et necessaria, et contraria prohibet.",
+      "meaning": " Law is the perfection of reason, which commands what is useful and necessary and forbids the contrary"
+    },
+    {
+      "word": "Lex est sanctio sancta jubens honesta et prohibens contraria",
+      "meaning": " The law is a sacred sanction, commanding what is right and prohibiting the contrary."
+    },
+    {
+      "word": "Lex indendit vicinum vicini facta scire",
+      "meaning": " The law presumes that one neighbor knows the acts of another."
+    },
+    {
+      "word": "lex loci contractus",
+      "meaning": " the law of a place where a contract was made; according to private international law it is the proper law by which to resolve disputes about a contract"
+    },
+    {
+      "word": "Lex necessitatis est lex temporis i.e. instantis",
+      "meaning": " The law of necessity is the law of time, that is time present."
+    },
+    {
+      "word": "Lex neminem cogit ad vana seu impossiblia",
+      "meaning": " The law compels no one to do vain or impossible things."
+    },
+    {
+      "word": "Lex nil frustra facit",
+      "meaning": " The law does nothing in vain."
+    },
+    {
+      "word": "Lex non a rege est violanda",
+      "meaning": " The law must not be violated even by the King."
+    },
+    {
+      "word": "Lex non deficere potest in justitia exhibenda",
+      "meaning": " The law cannot fail in dispensing justice."
+    },
+    {
+      "word": "Lex non favet delicatorum votis",
+      "meaning": " The law does not favor the wishes of the dainty."
+    },
+    {
+      "word": "Lex non novit patrem, nec matrem; solam veritatem",
+      "meaning": " The law does not know neither father nor mother, only the truth."
+    },
+    {
+      "word": "Lex non oritur ex injuria",
+      "meaning": " The law does not arise from a mere injury"
+    },
+    {
+      "word": "Lex non requirit verificari quod apparet curiae",
+      "meaning": " The law does not require that to be proved which is apparent to the Court."
+    },
+    {
+      "word": "Lex plus laudatur quando ratione probatur",
+      "meaning": " The law is the more praised when it is supported by reason."
+    },
+    {
+      "word": "Lex prospicit not respicit",
+      "meaning": " The law looks forwared, not backward"
+    },
+    {
+      "word": "Lex punit mendaciam",
+      "meaning": " The law punishes falsehood."
+    },
+    {
+      "word": "Lex rejicit superflua, pugnatia, incongrua",
+      "meaning": " The law rejects superfluous, contradictory and incongruous things."
+    },
+    {
+      "word": "Lex spectat naturae ordinem",
+      "meaning": " The law regards the order of nature."
+    },
+    {
+      "word": "Lex succurrit ignoranti",
+      "meaning": " The law succors the ignorant."
+    },
+    {
+      "word": "Lex tutissima cassis, sub clypeo legis nemo decipitur",
+      "meaning": " Law is the safest helmet; under the shield of the law no one is deceived."
+    },
+    {
+      "word": "Lex uno ore omnes alloquitur",
+      "meaning": " The law speaks to all through one mouth."
+    },
+    {
+      "word": "locus in quo",
+      "meaning": " scene of the event"
+    },
+    {
+      "word": "locus standi",
+      "meaning": " the right to be heard before a tribunal"
+    },
+    {
+      "word": "Longa possessio est pacis jus",
+      "meaning": " Long possession is the law of peace."
+    },
+    {
+      "word": "Longa possessio parit jus possidendi et tollit actionem vero domino",
+      "meaning": " Long possession produces the right of possession and takes away from the true owner his action."
+    }
+  ],
+  "m": [
+    {
+      "word": "Magister rerum usus; magistra rerum experientia",
+      "meaning": " Use is the master of things; experience is the mistress of things."
+    },
+    {
+      "word": "Major continet in se minus",
+      "meaning": " The greater contains the less."
+    },
+    {
+      "word": "Majus est delictum se ipsum occidere quam alium",
+      "meaning": " It is a greater crime to kill one s self than another."
+    },
+    {
+      "word": "Mala grammatica non vitiat chartam",
+      "meaning": " Bad grammar does not vitiate a deed."
+    },
+    {
+      "word": "Mala in se",
+      "meaning": " Bad in themselves."
+    },
+    {
+      "word": "Mala prohibita",
+      "meaning": " Crimes prohibited."
+    },
+    {
+      "word": "male appretiata",
+      "meaning": " for the property of a deceased person, to be wrongly valued"
+    },
+    {
+      "word": "Malitia supplet aesatem",
+      "meaning": " Malice supplies age"
+    },
+    {
+      "word": "Malo animo",
+      "meaning": " With evil intent."
+    },
+    {
+      "word": "Mandamus",
+      "meaning": " We command"
+    },
+    {
+      "word": "Maximus magister erroris populus est",
+      "meaning": " The people are the greatest master of error."
+    },
+    {
+      "word": "medium concludendi",
+      "meaning": " a ground of action"
+    },
+    {
+      "word": "Melior est conditio possidentis, ubi neuter jus habet",
+      "meaning": " Better is the condition of the possessor where neither of the two has the right."
+    },
+    {
+      "word": "Melior testatoris in testamentis spectanda est",
+      "meaning": " In wills the intention of a testator is to be regarded."
+    },
+    {
+      "word": "Meliorem conditionem suam facere potest minor deteriorem nequaquam",
+      "meaning": " A minor can make his position better, never worse."
+    },
+    {
+      "word": "Mens rea",
+      "meaning": " Guilty state of mind."
+    },
+    {
+      "word": "Mentiri est contra mentem ire",
+      "meaning": " To lie is to act against the mind."
+    },
+    {
+      "word": "Merito beneficium legis amittit, qui legem ipsam subvertere intendit",
+      "meaning": " He justly loses the benefit of the law who seeks to infringe the law."
+    },
+    {
+      "word": "Minatur innocentibus qui parcit nocentibus",
+      "meaning": " He threatens the innocent who spares the guilty."
+    },
+    {
+      "word": "Misera est servitus, ubi jus est vagum aut incertum",
+      "meaning": " It is a miserable slavery where the law is vague or uncertain."
+    },
+    {
+      "word": "modus",
+      "meaning": " the narration of the facts and circumstances in a criminal charge"
+    },
+    {
+      "word": "modus operandi",
+      "meaning": " way of doing something"
+    },
+    {
+      "word": "mora",
+      "meaning": " the delay in asserting a claim, which, when coupled with prejudice to the defender, may prevent the pursuer from recovering"
+    },
+    {
+      "word": "Mors dicitur ultimum supplicium",
+      "meaning": " Death is called the extreme penalty."
+    },
+    {
+      "word": "mortis causa",
+      "meaning": " on account of death"
+    },
+    {
+      "word": "Muilta exercitatione facilius quam regulis percipies",
+      "meaning": " You will perceive many things more easily by experience than by rules."
+    },
+    {
+      "word": "munus publicum",
+      "meaning": " a public office"
+    },
+    {
+      "word": "mutatis mutandis",
+      "meaning": " (in comparing cases) making the necessary alterations"
+    },
+    {
+      "word": "mutuum",
+      "meaning": " a contract by which fungibles lent without payment must be restored at an agreed date"
+    }
+  ],
+  "n": [
+    {
+      "word": "Nam nemo haeres viventis",
+      "meaning": " For no one is an heir of a living person."
+    },
+    {
+      "word": "Naturae vis maxima est",
+      "meaning": " The force of nature is the greatest."
+    },
+    {
+      "word": "Necessitas inducit privilegium quoad jura privata",
+      "meaning": " With respect to private rights necessity induces privilege."
+    },
+    {
+      "word": "Necessitas non habet legem",
+      "meaning": " Necessity has no law"
+    },
+    {
+      "word": "Necessitas publica est major quam privata",
+      "meaning": " Public necessity is greater than private necessity."
+    },
+    {
+      "word": "Negligentia semper habet infortuniam comitem",
+      "meaning": " Negligence always has misfortune for a companion."
+    },
+    {
+      "word": "negotiorum gestor",
+      "meaning": " a person that in an emergency steps in and acts for another who cannot act for himself, e.g. due to absence (the relevant process is called negotiorum gestio)"
+    },
+    {
+      "word": "Nemo admittendus est inhabilitare se ipsum",
+      "meaning": " No one is allowed to incapacitate himself."
+    },
+    {
+      "word": "Nemo bis punitur pro eodem delicto",
+      "meaning": " No one can be twice punished for the same offence."
+    },
+    {
+      "word": "Nemo cogitur suam rem vendere, etiam justo pretio",
+      "meaning": " No one is bound to sell his own property, even for a just price."
+    },
+    {
+      "word": "Nemo contra factum suum venire potest",
+      "meaning": " No man can contradict his own deed"
+    },
+    {
+      "word": "nemo dat quod non habet",
+      "meaning": " one can give a better title than the one he has"
+    },
+    {
+      "word": "Nemo debet esse judex in propria causa",
+      "meaning": " No one can be judge in his own case."
+    },
+    {
+      "word": "Nemo plus juris transferre ad alium potest quam ipse habet",
+      "meaning": " No one can transfer to another a larger right than he himself has."
+    },
+    {
+      "word": "Nemo potest contra recordum verificare per patriam",
+      "meaning": " No one can verify by the country, that is, through a jury, against the record."
+    },
+    {
+      "word": "Nemo potest esse tenens et dominus",
+      "meaning": " No one can at the same time be a tenant and a landlord (of the same tenement)."
+    },
+    {
+      "word": "Nemo potest facere per alium, quod per se non potest",
+      "meaning": " No one can do through another what he cannot do himself."
+    },
+    {
+      "word": "Nemo potest mutare consilium suum in alterius injuriam",
+      "meaning": " No one can change his purpose to the injury of another."
+    },
+    {
+      "word": "Nemo praesumitur esse immemor suae aeternae salutis et maxime in articulo mortis",
+      "meaning": " No one is presumed to be forgetful of his eternal welfare, and particularly in the hour of death."
+    },
+    {
+      "word": "Nemo prohibetur pluribus defensionibus uti",
+      "meaning": " No one is forbidden to make use of several defences."
+    },
+    {
+      "word": "Nemo punitur pro alieno delicto",
+      "meaning": " No one is punished for the crime of another"
+    },
+    {
+      "word": "Nemo se accusare debet, nisi coram Deo",
+      "meaning": " No one should accuse himself except in the presence of God."
+    },
+    {
+      "word": "Nemo tenetur accusare se ipsum nisi coram Deo",
+      "meaning": " No one is bound to accuse himself except in the presence of God."
+    },
+    {
+      "word": "Nemo tenetur armare adversarium contra se",
+      "meaning": " No one is bound to arm his adversary against himself."
+    },
+    {
+      "word": "Nexus",
+      "meaning": " Connection"
+    },
+    {
+      "word": "Nihil quod est inconveniens est licitum",
+      "meaning": " Nothing inconvenient is lawful."
+    },
+    {
+      "word": "Nil facit error nominis cum de corpore constat",
+      "meaning": " An error of name makes not difference when it appears from the body of the instrument."
+    },
+    {
+      "word": "Nisi",
+      "meaning": " Unless"
+    },
+    {
+      "word": "non compos mentis",
+      "meaning": " not of sound mind and understanding"
+    },
+    {
+      "word": "Non compus mentis",
+      "meaning": " Not of sound mind and understanding"
+    },
+    {
+      "word": "Non constat -",
+      "meaning": " It is not certain"
+    },
+    {
+      "word": "Non decipitur qui scit se decipi",
+      "meaning": " He is not deceived who knows that he is deceived."
+    },
+    {
+      "word": "Non definitur in jure quid sit conatus",
+      "meaning": " What an attempt is, is not defined in law"
+    },
+    {
+      "word": "Non est arctius vinculum inter homines quam jusjurandum",
+      "meaning": " There is no stronger link among men than an oath."
+    },
+    {
+      "word": "Non est factum",
+      "meaning": " It is not his deed"
+    },
+    {
+      "word": "Non est informatus",
+      "meaning": " He is not informed"
+    },
+    {
+      "word": "Non facias malum ut inde veniat bonum",
+      "meaning": " You shall not do evil that good may come of it."
+    },
+    {
+      "word": "Non jus, sed seisina, facit stipitem",
+      "meaning": " Not right, but seisin makes a stock (from which the inheritance must descend)."
+    },
+    {
+      "word": "Non refert quid notum sit judici si notum non sit in forma judicii",
+      "meaning": " It matters not what is known to the judge if it is not known judicially."
+    },
+    {
+      "word": "Non sequitur",
+      "meaning": " An inconsistent statement, it does not follow"
+    },
+    {
+      "word": "non valens agere",
+      "meaning": " the unfitness of a person to act by reason of minority"
+    },
+    {
+      "word": "nova debita",
+      "meaning": " debts, the payment of which is not struck at by the bankruptcy law, despite the fact that they were contracted within 60 days before bankruptcy"
+    },
+    {
+      "word": "Nullus commodum capere potest ex sua injuria propria",
+      "meaning": " No one can derive an advantage from his own wrong."
+    },
+    {
+      "word": "Nullus recedat e curia cancellaria sine remedio",
+      "meaning": " No one should depart from a Court of Chancery without a remedy."
+    }
+  ],
+  "o": [
+    {
+      "word": "obiter dictum",
+      "meaning": " of judicial statements, not essential to the decision of the case and therefore without binding authority (pl. obiter dicta)"
+    },
+    {
+      "word": "occupatio",
+      "meaning": " a mode of acquiring property by appropriating a thing"
+    },
+    {
+      "word": "Omne sacramentum debet esse de certa scientia",
+      "meaning": " Every oath ought to be of certain knowledge."
+    },
+    {
+      "word": "Omnia delicta in aperto leviora sunt",
+      "meaning": " All crimes (committed) in the open are (considered) lighter."
+    },
+    {
+      "word": "Omnia praesumuntur contra spoliatorem",
+      "meaning": " All things are presumed against a wrongdoer."
+    },
+    {
+      "word": "Omnis innovatio plus novitate perturbat quam utilitate prodeat",
+      "meaning": " Every innovation disturbs more by its novelty than it benefits by its utility."
+    },
+    {
+      "word": "onus probandi",
+      "meaning": " burden of proof"
+    },
+    {
+      "word": "ope et concilio",
+      "meaning": " by help and counsel (a synonym for \"art and part\")"
+    },
+    {
+      "word": "ope exceptionis",
+      "meaning": " as a defence; by way of exception"
+    },
+    {
+      "word": "Optima legum interpres est consuetudo",
+      "meaning": " The best interpreter of laws is custom."
+    },
+    {
+      "word": "Optimus interpres rerum est usus",
+      "meaning": " The best interpreter of things is usage."
+    }
+  ],
+  "p": [
+    {
+      "word": "Pacta privata juri publico non derogare possunt",
+      "meaning": " Private contracts cannot derogate from public law."
+    },
+    {
+      "word": "pacta sunt servanda",
+      "meaning": " agreements must be followed"
+    },
+    {
+      "word": "pactum",
+      "meaning": " agreement"
+    },
+    {
+      "word": "pactum illicitum",
+      "meaning": " unlawful contract"
+    },
+    {
+      "word": "Par delictum",
+      "meaning": " Equal fault."
+    },
+    {
+      "word": "Pari passu",
+      "meaning": " On an equal footing"
+    },
+    {
+      "word": "particeps criminis",
+      "meaning": " accomplice"
+    },
+    {
+      "word": "Partus sequitur ventrem",
+      "meaning": " The offspring follows the mother"
+    },
+    {
+      "word": "Pater est quem nuptiae demonstrant",
+      "meaning": " The father is he whom the marriage points out."
+    },
+    {
+      "word": "Peccata contra naturam sunt gravissima",
+      "meaning": " Wrongs against nature are the most serious."
+    },
+    {
+      "word": "Pendente lite nihil innovetur",
+      "meaning": " During litigation nothing should be changed"
+    },
+    {
+      "word": "penuria testium",
+      "meaning": " lack of witnesses"
+    },
+    {
+      "word": "Per curiam",
+      "meaning": " In the opinion of the court."
+    },
+    {
+      "word": "Per minas",
+      "meaning": " By means of menaces or threats"
+    },
+    {
+      "word": "Per quod",
+      "meaning": " By reason of which."
+    },
+    {
+      "word": "per se",
+      "meaning": " by itself"
+    },
+    {
+      "word": "post",
+      "meaning": " after; later"
+    },
+    {
+      "word": "Post mortem",
+      "meaning": " After death."
+    },
+    {
+      "word": "pretium affectionis",
+      "meaning": " a price or value placed upon a thing owing to its owner's attachment to it"
+    },
+    {
+      "word": "Prima facie",
+      "meaning": " On the face of it."
+    },
+    {
+      "word": "Prima impressionis",
+      "meaning": " On first impression."
+    },
+    {
+      "word": "Pro hac vice",
+      "meaning": " For this occasion."
+    },
+    {
+      "word": "Pro rata",
+      "meaning": " In proportion."
+    },
+    {
+      "word": "pro re nata",
+      "meaning": " as the occasion arises"
+    },
+    {
+      "word": "Pro tanto",
+      "meaning": " So far, to that extent."
+    },
+    {
+      "word": "Pro tempore",
+      "meaning": " For the time being."
+    },
+    {
+      "word": "probabilis causa litigandi",
+      "meaning": " substantial grounds for participating in a trial"
+    },
+    {
+      "word": "probatio probata",
+      "meaning": " a fact given in evidence which may not be contradicted"
+    },
+    {
+      "word": "Publici juris",
+      "meaning": " Of public right."
+    }
+  ],
+  "q": [
+    {
+      "word": "Quaeitur",
+      "meaning": " The question is raised."
+    },
+    {
+      "word": "quaere",
+      "meaning": " consider whether it is correct"
+    },
+    {
+      "word": "quaeritur",
+      "meaning": " the question is raised"
+    },
+    {
+      "word": "Quantum",
+      "meaning": " How much, an amount."
+    },
+    {
+      "word": "Qui facit per alium, facit per se",
+      "meaning": " He who acts through another acts himself."
+    },
+    {
+      "word": "Qui haeret in litera, haeret in cortice",
+      "meaning": " He who stices to the letter, sticks to the bark."
+    },
+    {
+      "word": "Qui in utero est, pro jam nato habetur, quoties de ejus commodo quaeritur",
+      "meaning": " He who is in the womb is considered as already born as far as his benefit is considered"
+    },
+    {
+      "word": "Qui non habet potestatem alienandi, habet necessitatem retinendi",
+      "meaning": " He who has not the power of alienating is under the necessity of retaining."
+    },
+    {
+      "word": "Qui non habet, ille non dat",
+      "meaning": " He who has not, does not give."
+    },
+    {
+      "word": "Qui non improbat, approbat",
+      "meaning": " He who does not disapprove, approves"
+    },
+    {
+      "word": "Qui non obstat quod obstare potest facere videtur",
+      "meaning": " He who does not prevent what he is able to prevent, is considered as committing the thing."
+    },
+    {
+      "word": "Qui non prohibet quod prohibere potest assentire videtur",
+      "meaning": " He who does not prohibit when he is able to prohibit, is in fault."
+    },
+    {
+      "word": "Qui peccat ebrius, luat sobrius",
+      "meaning": " He who does wrong when drunk must be punished when sober."
+    },
+    {
+      "word": "Qui potest et debet vetare et non vetat jubet",
+      "meaning": " He who is able and ought to forbit and does not, commands."
+    },
+    {
+      "word": "Qui prior est tempore potior est jure",
+      "meaning": " He who is prior in time is stronger in right."
+    },
+    {
+      "word": "Qui sentit commodum, debet et sentire onus",
+      "meaning": " He who derives a benefit ought also to bear a burden."
+    },
+    {
+      "word": "Qui tacet consentire videtur",
+      "meaning": " He who is silent appears to consent"
+    },
+    {
+      "word": "quid juris",
+      "meaning": " what is the law? (also quid iuris) (used often in exam questions)"
+    },
+    {
+      "word": "Quid pro quo",
+      "meaning": " Consideration. something for something"
+    },
+    {
+      "word": "Quidcquid plantatur solo, solo cedit",
+      "meaning": " Whatever is planted in or affixed to the soil, belongs to the soil."
+    },
+    {
+      "word": "Quod ab initio non valet, in tractu temporis non convalescit",
+      "meaning": " What is not valid in the beginning does not become valid by time."
+    },
+    {
+      "word": "Quod constat curiae opere testium non indiget",
+      "meaning": " What appears to the Court needs not the help of witnesses."
+    },
+    {
+      "word": "Quod necessarie intelligitur, id non deest",
+      "meaning": " What is necessarily understood is not wanting."
+    },
+    {
+      "word": "Quod necessitas cogit, defendit",
+      "meaning": " What necessity forces it justifies"
+    },
+    {
+      "word": "Quod non apparet, non est",
+      "meaning": " What does not appear, is not."
+    },
+    {
+      "word": "Quod non habet principium non habet finem",
+      "meaning": " What has no beginning has no end."
+    },
+    {
+      "word": "Quod per me non possum, nec per alium",
+      "meaning": " What I cannot do through myself, I cannot do through another."
+    },
+    {
+      "word": "Quod prius est verius est; et quod prius est tempore potius est jure",
+      "meaning": " What is first is more true; and what is prior in time is stronger in law."
+    },
+    {
+      "word": "Quod vanum et inutile est, lex non requirit",
+      "meaning": " The law does not require what is vain and useless."
+    },
+    {
+      "word": "Quoties in verbis nulla est ambiguitas, ibi nulla expositio contra verba expressa fienda est",
+      "meaning": " When there is no ambiguity in words, then no exposition contrary to the expressed words is to be made."
+    }
+  ],
+  "r": [
+    {
+      "word": "ratio decidendi",
+      "meaning": " the rule for which a stand as authority"
+    },
+    {
+      "word": "Ratio est legis anima, mutata legis ratione mutatur et lex",
+      "meaning": " Reason is the soul of the law; when the reason of the law changes the law also is changed"
+    },
+    {
+      "word": "Re",
+      "meaning": " In the matter of."
+    },
+    {
+      "word": "Reprobata pecunia leberat solventem",
+      "meaning": " Money refused releases the debtor"
+    },
+    {
+      "word": "res communes",
+      "meaning": " things in their nature incapable of appropriation, such as light and air"
+    },
+    {
+      "word": "Res gestae",
+      "meaning": " Things done."
+    },
+    {
+      "word": "Res integra",
+      "meaning": " A matter untouched (by decision)."
+    },
+    {
+      "word": "Res inter alios acta alteri nocere non debet",
+      "meaning": " Things done between strangers ought not to affect a third person, who is a stranger to the transaction."
+    },
+    {
+      "word": "res iudicata",
+      "meaning": " a question decided by competent legal proceedings, which cannot again be raised (also res judicata)"
+    },
+    {
+      "word": "Res judicata accipitur pro veritate",
+      "meaning": " A thing adjudged is accepted for the truth."
+    },
+    {
+      "word": "res noviter veniens ad notitiam",
+      "meaning": " information newly discovered, sometimes justifying the admission of new matter in a case, or a new trial"
+    },
+    {
+      "word": "Res nulis",
+      "meaning": " Nobody s property"
+    },
+    {
+      "word": "res nullius",
+      "meaning": " a thing which never had an owner or which had, but lost its owner"
+    },
+    {
+      "word": "res publicae",
+      "meaning": " things in which the property resides in the state alone, like navigable rivers and highways"
+    },
+    {
+      "word": "res universitatis",
+      "meaning": " things belonging to a corporation, whose use is common to the members"
+    },
+    {
+      "word": "Respondeat superior",
+      "meaning": " Let the principal answer"
+    },
+    {
+      "word": "restitutio in integrum",
+      "meaning": " restoration to the original position or condition"
+    },
+    {
+      "word": "Rex est major singulis, minor universis",
+      "meaning": " The King is greater than individuals, less than all the people."
+    },
+    {
+      "word": "Rex non debet judicare sed secundum legem",
+      "meaning": " The King ought not to judge but according to the law."
+    },
+    {
+      "word": "Rex non potest peccare",
+      "meaning": " The King can do no wrong"
+    },
+    {
+      "word": "Rex nunquma moritur",
+      "meaning": " The King never dies."
+    },
+    {
+      "word": "Rex quod injustum est facere non potest",
+      "meaning": " The King cannot do what is unjust"
+    }
+  ],
+  "s": [
+    {
+      "word": "Salus populi est suprema lex",
+      "meaning": " The safety of the people is the supreme law."
+    },
+    {
+      "word": "Sciens",
+      "meaning": " Knowingly."
+    },
+    {
+      "word": "Scienter",
+      "meaning": " Knowingly"
+    },
+    {
+      "word": "Scire facias",
+      "meaning": " That you cause to know."
+    },
+    {
+      "word": "Scribere est agere",
+      "meaning": " To write is to act."
+    },
+    {
+      "word": "Se defendendo",
+      "meaning": " In self defence."
+    },
+    {
+      "word": "Secus",
+      "meaning": " The legal position is different, it is otherwise."
+    },
+    {
+      "word": "Semper praesumitur pro legitimatione puerorum",
+      "meaning": " Everything is presumed in favor of the legitimacy of children."
+    },
+    {
+      "word": "Semper pro matriomonio praesumitur",
+      "meaning": " It is always presumed in favor of marriage."
+    },
+    {
+      "word": "Sententia interlocutoria revocari potest, definitiva non potest",
+      "meaning": " An interlocutory order can be revoked, a final order cannot be."
+    },
+    {
+      "word": "Servitia personalia sequuntur personam",
+      "meaning": " Personal services follow the person"
+    },
+    {
+      "word": "Sic utere tuo ut alienum non laedas",
+      "meaning": " So use your own as not to injure another s property."
+    },
+    {
+      "word": "Simplex commendatio non obligat",
+      "meaning": " A simple recommendation does not bind"
+    },
+    {
+      "word": "sine die",
+      "meaning": " indefinitely"
+    },
+    {
+      "word": "sine qua non",
+      "meaning": " an indispensable condition"
+    },
+    {
+      "word": "socius criminis",
+      "meaning": " accomplice in crime"
+    },
+    {
+      "word": "solatium",
+      "meaning": " damages given by way of reparation for injury to feelings"
+    },
+    {
+      "word": "Stare decisis",
+      "meaning": " To stand by decisions (precedents)."
+    },
+    {
+      "word": "status quo",
+      "meaning": " the existing state of affairs"
+    },
+    {
+      "word": "Stet",
+      "meaning": " Do not delete, let it stand"
+    },
+    {
+      "word": "Sub modo",
+      "meaning": " Within limits."
+    },
+    {
+      "word": "Sub nomine",
+      "meaning": " Under the name of."
+    },
+    {
+      "word": "Sub silentio",
+      "meaning": " In silence."
+    },
+    {
+      "word": "Sublata causa, tollitur effectus",
+      "meaning": " The cause being removed, the effect ceases"
+    },
+    {
+      "word": "Sublato fundamento, cadit opus",
+      "meaning": " The foundation being removed, the structure falls."
+    },
+    {
+      "word": "Subsequens matrimonium tollit peccatum praecedens",
+      "meaning": " A subsequent marriage removes the preceding wrong."
+    },
+    {
+      "word": "Suggestio falsi",
+      "meaning": " The suggestion of something which is untrue"
+    },
+    {
+      "word": "Sui generis",
+      "meaning": " Unique."
+    },
+    {
+      "word": "Summa ratio est quae pro religione facit",
+      "meaning": " The highest reason is that which makes for religion, i.e. religion dictates."
+    },
+    {
+      "word": "Suppressio veri",
+      "meaning": " The suppression of the truth."
+    },
+    {
+      "word": "Suppressio veri expressio falsi",
+      "meaning": " A suppression of truth is equivalent to an expression of falsehood."
+    },
+    {
+      "word": "supra",
+      "meaning": " above; earlier"
+    }
+  ],
+  "t": [
+    {
+      "word": "Tacita quaedam habentur pro expressis.",
+      "meaning": " Things silent are sometimes considered as expressed."
+    },
+    {
+      "word": "Talis interpretatio semper fienda est, ut evitetur absurdum, et inconveniens, et ne judicium sit ill",
+      "meaning": " Interpretation is always to be made in such a manner, that what is absurd and inconvenient is to be avoided, so that the judgment be not nugatory."
+    },
+    {
+      "word": "Talis non est eadem, nam nullum simile est idem.",
+      "meaning": " What is like is not the same, for nothing similar is the same."
+    },
+    {
+      "word": "Talis qualis",
+      "meaning": " Such as it is"
+    },
+    {
+      "word": "Tantum bona valent, quantum vendi possunt.",
+      "meaning": " Things are worth what they will sell for."
+    },
+    {
+      "word": "Terminus annorum certus debet esse et determinatus.",
+      "meaning": " A term of years ought to be certain and determinate."
+    },
+    {
+      "word": "Terra firma",
+      "meaning": " Solid ground."
+    },
+    {
+      "word": "Terra transit cum onere.",
+      "meaning": " Land passses with the incumbrances."
+    },
+    {
+      "word": "tertius",
+      "meaning": " third party"
+    },
+    {
+      "word": "test",
+      "meaning": " test"
+    },
+    {
+      "word": "Test word",
+      "meaning": " This is supposed to be the test word"
+    },
+    {
+      "word": "Testamenta latissimam interpretationem habere debent.",
+      "meaning": " Wills ough to have the broadest interpretation."
+    },
+    {
+      "word": "Testamentum omne morte consumatum.",
+      "meaning": " Every will is completed by death."
+    },
+    {
+      "word": "Testatoris ultima voluntas est perimplenda secundum veram intentionem suam.",
+      "meaning": " The last will of a testator is to be fulfilled according to his real intention."
+    },
+    {
+      "word": "Testibus deponentibus in pari numero dignioribus est credendum.",
+      "meaning": " When the number of witnesses is equal on both sides, the more worthy are to be believed."
+    },
+    {
+      "word": "Testis de visu praeponderat aliis.",
+      "meaning": " An eye witness outweighs others."
+    },
+    {
+      "word": "Testis nemo in su caus esse potest.",
+      "meaning": " No one can be a witness in his own cause."
+    },
+    {
+      "word": "Testis oculatus unus plus valet quam auriti decem.",
+      "meaning": " One eye witness is worth ten ear witnesses."
+    },
+    {
+      "word": "Timores vani sunt aestimandi qui non cadunt in constantem virum.",
+      "meaning": " Fears, which have no fixed persons for their object, are vain."
+    },
+    {
+      "word": "Tonte exception non surveill e tend prendre la place du principe.",
+      "meaning": " Every exception not watched tends to assume the place of the principle."
+    },
+    {
+      "word": "Totum prefertur uni cuique parte.",
+      "meaning": " The whole is preferable to any single part."
+    },
+    {
+      "word": "Tout ce que la loi ne defend pas est permis.",
+      "meaning": " Everything is permitted, which is not forbidden by law."
+    },
+    {
+      "word": "Tractent fabrilia fabri.",
+      "meaning": " Let smiths perform the work of smiths."
+    },
+    {
+      "word": "Traditio loqui chartam facit",
+      "meaning": "  Delivery makes a deed speak"
+    },
+    {
+      "word": "Traditio loqui facit chartam.",
+      "meaning": " Delivery makes the deed speak."
+    },
+    {
+      "word": "Transgressione multiplicata, crescat paena inflictio.",
+      "meaning": " When transgression is multiplied, let the infliction of punishment be increased."
+    },
+    {
+      "word": "Transit terra cum onere",
+      "meaning": " The land passes with its burden"
+    },
+    {
+      "word": "Triatio ibi semper debet fieri, ubi juratores meliorem possunt habere notitiam.",
+      "meaning": " Trial ought always to be had where the jury have the best knowledge."
+    },
+    {
+      "word": "Trupis est pars quae non convenit cum suo toto.",
+      "meaning": " That part is bad which accords not with the whole."
+    },
+    {
+      "word": "Tuta est custodia quae sibimet creditur.",
+      "meaning": " That guardianship is secure which trusts to itself alone."
+    },
+    {
+      "word": "Tutius erratur ex parte mittioro.",
+      "meaning": " It is safer to err on the side of mercy."
+    }
+  ],
+  "u": [
+    {
+      "word": "uberrima fides",
+      "meaning": " the utmost good faith"
+    },
+    {
+      "word": "Ubi aliquid impeditur propter unum, eo remoto, tollitur impedimentum.",
+      "meaning": " When anything is impeded by one single cause, if that be removed the impediment is removed."
+    },
+    {
+      "word": "Ubi cessat remedium ordinarium ibi decurritur ad extraordinarium.",
+      "meaning": " When a common remedy ceases to be of service, recoruse must be had to an extraordinary one"
+    },
+    {
+      "word": "Ubi culpa est ibi paena subesse debet.",
+      "meaning": " Where there is culpability, there punishment ought to be."
+    },
+    {
+      "word": "Ubi damna dantur, victus victori in expensis condemnari debet.",
+      "meaning": " Where damages are given, the losing party should pay the costs of the victor."
+    },
+    {
+      "word": "Ubi eadem ratio ibi idem jus, et de similibus idem est judicium",
+      "meaning": " When there is the same reason, then the law is the same, and the same judgment should be rendered as to similar things."
+    },
+    {
+      "word": "Ubi eadem ratio, ibi idem lex.",
+      "meaning": " Where there is the same reason, there is the same law."
+    },
+    {
+      "word": "Ubi factum nullum ibi sortia nulla.",
+      "meaning": " Where there is no deed committed, there can be no consequence."
+    },
+    {
+      "word": "Ubi jus ibi remedium est",
+      "meaning": " Where there is a right there is a remedy."
+    },
+    {
+      "word": "Ubi jus incertum, ibi jus nullum.",
+      "meaning": " Where the law is uncertain, there is no law."
+    },
+    {
+      "word": "Ubi jus, ibi remedium.",
+      "meaning": " Where there is a right, there is a remedy."
+    },
+    {
+      "word": "Ubi lex aliquem cogit ostendere causam, necesse est quod causa sit justa et letitima.",
+      "meaning": " Where the law compels a man to show cause, the cause ought to be just and legal."
+    },
+    {
+      "word": "Ubi lex est specialis, et ratio ejus generalis, generaliter accipienda est.",
+      "meaning": " Where the law is special and the reason of it is general, it ought to be taken as being general."
+    },
+    {
+      "word": "Ubi lex non distinguit, nec nos distinguere debemus.",
+      "meaning": " Where the law does not distinguish, we ought not to distinguish."
+    },
+    {
+      "word": "Ubi major pars est, ibi totum.",
+      "meaning": " Where is the greater part, there is the whole."
+    },
+    {
+      "word": "Ubi non adest norma legis, omnia quasi pro suspectis habenda sunt.",
+      "meaning": " When the law fails to serve as a rule, almost everything ought to be suspected. Bacon,"
+    },
+    {
+      "word": "Ubi non est condendi auctoritas, ibi non est parendi necessitas.",
+      "meaning": " Where there is no authority to enforce, there is no authority to obey."
+    },
+    {
+      "word": "Ubi non est directa lex, standum est arbitrio judicis, vel procedendum ad similia.",
+      "meaning": " Where there is no direct law, the opinion of the judges ought to be taken, or reference made to similar cases."
+    },
+    {
+      "word": "Ubi non est lex, non est transgressio quoad mundum.",
+      "meaning": " Where there is no law there is no transgression, as it regards the world."
+    },
+    {
+      "word": "ubi nullum matrimonium ibi nullum dos.",
+      "meaning": " Where there is no marriage there is no dower."
+    },
+    {
+      "word": "Ubi nullum matrimonium, ibi nulla dos es",
+      "meaning": " Where there is no marriage, there is no dower."
+    },
+    {
+      "word": "Ubi periculum, ibi et lucrum collocatur.",
+      "meaning": " He at whose risk a thing is, should receive the profits arising from it."
+    },
+    {
+      "word": "Ubi quid generaliter conceditur, in est haec exceptio, si non aliquid sit contra jus fasque.",
+      "meaning": " Where a thing is concealed generally, this exception arises, that there shall be nothing contrary to law and right."
+    },
+    {
+      "word": "ubi quis delinquit ibi punietur.",
+      "meaning": " Let a man be punished when he commits the offence."
+    },
+    {
+      "word": "Ubicunque est injuria, ibi damnum sequitur.",
+      "meaning": " Whereever there is a wrong, there damages follow."
+    },
+    {
+      "word": "Ultima voluntas testatoris est perimplenda secundum veram intentionem suam.",
+      "meaning": " The last will of a testator is to be fulfilled according to his true intention."
+    },
+    {
+      "word": "ultimum refugium",
+      "meaning": " last resort"
+    },
+    {
+      "word": "ultimus haeres",
+      "meaning": " last heir; the Crown inherits as last heir for want of other heirs"
+    },
+    {
+      "word": "Ultra posse non est esse, et vice versa.",
+      "meaning": " What is beyond possibility cannot exist, and the reverse, what cannot exist is not possible."
+    },
+    {
+      "word": "Una persona vix potest supplere vices duorum.",
+      "meaning": " One person can scarcely supply the place of two."
+    },
+    {
+      "word": "Universalia sunt notoria singularibus.",
+      "meaning": " Things universal are better known than things particular."
+    },
+    {
+      "word": "Universitas vel corporatio non dicitur aliquid facere nisi id sit collegialiter deliberatum, etiamsi",
+      "meaning": " An university or corporation is not said to do anything unless it be deliberated upon collegiately, although the majority should do it."
+    },
+    {
+      "word": "Uno absurdo dato, infinita sequuntur.",
+      "meaning": " One absurdity begin allowed, an infinity follow."
+    },
+    {
+      "word": "uno flatu",
+      "meaning": " at the same moment; with one breath"
+    },
+    {
+      "word": "Unumquodque dissolvatur eo modo quo colligatur.",
+      "meaning": " Everything is dissolved by the same mode in which it is bound together."
+    },
+    {
+      "word": "Unumquodque eodem modo quo colligatum est dissolvitur.",
+      "meaning": " In the same manner in which a thing is bound, it is loosened."
+    },
+    {
+      "word": "Unumquodque est id quod est principalius in ipso.",
+      "meaning": " That which is the principal part of a thing is the thing itself."
+    },
+    {
+      "word": "Ut res magis valeat quam pereat.",
+      "meaning": " That the thing may rather have effect than be destroyed."
+    },
+    {
+      "word": "Utile per inutile non vitiatur.",
+      "meaning": " What is useful is not vitiated by the useless."
+    }
+  ],
+  "v": [
+    {
+      "word": "Valeat quantum valere potest.",
+      "meaning": " It shall have effect as far as it can have effect."
+    },
+    {
+      "word": "Vana est illa potentia quae numquam venit in actum.",
+      "meaning": " Vain is that power which is never brought into action."
+    },
+    {
+      "word": "Vani timores sunt aestimandi, qui non cadunt in constantem virum.",
+      "meaning": " Vain are those fears which affect not a valiant man."
+    },
+    {
+      "word": "Vendens eandem rem doubus falsarius est.",
+      "meaning": " It is fraudulent to sell the same thing twice."
+    },
+    {
+      "word": "Veniae facilitas incentivum est delinquendi.",
+      "meaning": " Facility of pardon is an incentive to crime."
+    },
+    {
+      "word": "Verba aequivoca ac in dubio sensu posita, intelliguntur dignori et potentiori sensu.",
+      "meaning": " Equivocal words and those in a doubtful sense are to be taken in their best and most effective sense."
+    },
+    {
+      "word": "Verba chartarum fortius accipiuntur contra preferentem",
+      "meaning": " The words of deeds are accepted more strongly against the person offering them."
+    },
+    {
+      "word": "Verba currentis monetae, tempus solutionis designat.",
+      "meaning": " The words current money, refer to the time of payment"
+    },
+    {
+      "word": "Verba debent intelligi cum effectu",
+      "meaning": " Words ought to be understood with effect."
+    },
+    {
+      "word": "Verba dicta de persona, intelligi debent de conditione personae.",
+      "meaning": " Words spoken of the person are to be understood of the condition of the person"
+    },
+    {
+      "word": "Verba fortius accipientur contra proferentum.",
+      "meaning": " Words are to be taken most strongly against him who uses them."
+    },
+    {
+      "word": "Verba ganeralia restringuntur ad habilitatem rei vel personae.",
+      "meaning": " General words must be confined or restrained to the nature of the subject or the aptitude of the person."
+    },
+    {
+      "word": "Verba generalia generaliter sunt intelligenda.",
+      "meaning": " General words are to be generally understood."
+    },
+    {
+      "word": "Verba intentioni, non e contra, debent inservire.",
+      "meaning": " Words ought to be made subservient to the intent, not contrary to it."
+    },
+    {
+      "word": "Verba ita sunt intelligenda, ut res magis valeat quam pereat.",
+      "meaning": " Wrods are to be so understood that the subject-matter may be preserved rather than destroyed."
+    },
+    {
+      "word": "Verba nihil operandi melius est quam absurde.",
+      "meaning": " It is better that words should have no operation, than to operate absurdly."
+    },
+    {
+      "word": "Verba posteriora propter certitudinem addita, ad priora quae certitudine indigent, sunt referenda.",
+      "meaning": " Words added for the purpose of certainty are to be referred to preceding words, in which certainty is wanting."
+    },
+    {
+      "word": "Verbatim",
+      "meaning": " Word by word, exactly."
+    },
+    {
+      "word": "Veredictum, quasi dictum veritas; ut judicium quasi juris dictum.",
+      "meaning": " A verdict is, as it were, the saying of the truth, in the same manner that a judgment is the saying of the law"
+    },
+    {
+      "word": "Verga relata hac maximi operantur per referentiam ut in eis in esse videntur.",
+      "meaning": " Words referred to other words operate chiefly by the reference which appears to be impled towards them."
+    },
+    {
+      "word": "veritas",
+      "meaning": " truth"
+    },
+    {
+      "word": "Veritas demonstrationis tollit errorem nominis.",
+      "meaning": " The truth of the demonstration removes the error of the name"
+    },
+    {
+      "word": "Veritas nihil veretur nisi abscondi.",
+      "meaning": " Truth fears nothing but concealment."
+    },
+    {
+      "word": "Veritas nimium altercando amittitur.",
+      "meaning": " By too much altercation truth is lost."
+    },
+    {
+      "word": "Veritatem qui non libere pronunciat, proditor est veritatis.",
+      "meaning": " He who does not speak the truth, is a traitor to the truth."
+    },
+    {
+      "word": "Vi et armis",
+      "meaning": " With the force and arms."
+    },
+    {
+      "word": "Via antiqua via est tuta",
+      "meaning": " The old way is the safe way."
+    },
+    {
+      "word": "Vicarius non habet vicaruim.",
+      "meaning": " A deputy cannot appoint a deputy."
+    },
+    {
+      "word": "Vice versa",
+      "meaning": " The other way around."
+    },
+    {
+      "word": "Vide",
+      "meaning": " See"
+    },
+    {
+      "word": "Vigilantibus et non dormientibus serviunt leges.",
+      "meaning": " The laws serve the vigilant, not those who sleep upon their rights"
+    },
+    {
+      "word": "Vigilantibus non dormientibus jura subveniunt",
+      "meaning": " The laws serve the vigilant, not those who sleep."
+    },
+    {
+      "word": "Viperina est expositio quae corrodit viscera textus.",
+      "meaning": " That is a viperous exposition which gnaws or eats out the bowels of the text."
+    },
+    {
+      "word": "Vir et uxor consentur in lege una persona.",
+      "meaning": " Husband and wife are considered one person in law."
+    },
+    {
+      "word": "vis et metus",
+      "meaning": " force and fear"
+    },
+    {
+      "word": "Vis legibus est inimica.",
+      "meaning": " Force is inimical to the laws."
+    },
+    {
+      "word": "Visitationem commendamus",
+      "meaning": " We recommend a visitation."
+    },
+    {
+      "word": "Vitium clerici nocere non debet.",
+      "meaning": " Clerical errors ought not to hurt."
+    },
+    {
+      "word": "vitium reale",
+      "meaning": " An inherent taint or defect in a title to property (also known as labes realis)"
+    },
+    {
+      "word": "Volens",
+      "meaning": " Willing."
+    },
+    {
+      "word": "Volenti non fit injuria",
+      "meaning": " An injury is not done to one consenting to it."
+    },
+    {
+      "word": "Voluit sed non dixit.",
+      "meaning": " he willed but did not say."
+    },
+    {
+      "word": "Voluntas in delictis non exitus spectatur.",
+      "meaning": " In offences, the will and not the consequences are to be looked to."
+    },
+    {
+      "word": "Voluntas reputatur pro facto",
+      "meaning": " The will is taken for the deed"
+    },
+    {
+      "word": "Voluntas testatoris ambulatoria est usque ad mortem.",
+      "meaning": " The will of a testator is ambulatory until his death; that is, he may change it at any time."
+    },
+    {
+      "word": "Volunti non fit injuria.",
+      "meaning": " He who consents cannot receive an injury."
+    },
+    {
+      "word": "Vreba aliquid operari debent, verba cum effectu sunt accipienda.",
+      "meaning": " Words are to be taken so as to have effect."
+    }
+  ],
+  "w": [],
+  "x": [],
+  "y": [],
+  "z": []
+}
