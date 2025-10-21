@@ -24,7 +24,7 @@ export default function CurriculumModal({
   const [preview, setPreview] = useState(null);
   const [error, setError] = useState("");
 
-  // Initialize form with existing data
+  // Initialize form with existing data f
   useEffect(() => {
     setSubjectType(existingSubjectType);
     if (existingThumbnail) {
